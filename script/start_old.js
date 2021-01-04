@@ -3652,7 +3652,8 @@ addData( "req_craft", "expandedstorage:obsidian_to_netherite_conversion_kit", { 
 }
 //Mining Dim Addon
 {
-addDat( "req_craft", "")
+addData( "req_craft", "mininggadgets:mininggadget", { "crafting": 80, "mining": 70 } );
+addData( "req_tool", "mininggadgets:mininggadget", { "mining": 80 } );
 }
 function addData2( dataKey, regKey, entryKey, entryObject, probe )
 {
