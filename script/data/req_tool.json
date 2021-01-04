@@ -98,5 +98,9 @@
 	"create:deforester":
 	{
 		"woodcutting": 92
+	},
+	"mininggadgets:mininggadget":
+	{
+		"mining": 80
 	}
 }

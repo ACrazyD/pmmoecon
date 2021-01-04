@@ -468,5 +468,10 @@
 	"expandedstorage:obsidian_to_netherite_conversion_kit":
 	{
 		"crafting": 60
+	},
+	"mininggadgets:mininggadget":
+	{
+		"crafting": 80,
+		"mining": 70
 	}
 }
