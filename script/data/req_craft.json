@@ -479,5 +479,95 @@
 	{
 		"crafting": 80,
 		"mining": 70
+	},
+	"storagenetwork:inventory":
+	{
+		"crafting": 100,
+		"smithing": 100
+	},
+	"storagenetwork:master":
+	{
+		"crafting": 100,
+		"smithing": 100
+	},
+	"storagenetwork:request":
+	{
+		"crafting": 100,
+		"smithing": 100
+	},
+	"storagenetwork:kabel":
+	{
+		"crafting": 100,
+		"smithing": 100
+	},
+	"storagenetwork:storage_kabel":
+	{
+		"crafting": 100,
+		"smithing": 100
+	},
+	"storagenetwork:import_kabel":
+	{
+		"crafting": 100,
+		"smithing": 100
+	},
+	"storagenetwork:import_filter_kabel":
+	{
+		"crafting": 100,
+		"smithing": 100
+	},
+	"storagenetwork:filter_kabel":
+	{
+		"crafting": 100,
+		"smithing": 100
+	},
+	"storagenetwork:export_kabel":
+	{
+		"crafting": 100,
+		"smithing": 100
+	},
+	"storagenetwork:exchange":
+	{
+		"crafting": 100,
+		"smithing": 100
+	},
+	"storagenetwork:collector":
+	{
+		"crafting": 100,
+		"smithing": 100
+	},
+	"storagenetwork:stack_upgrade":
+	{
+		"crafting": 100,
+		"smithing": 100
+	},
+	"storagenetwork:speed_upgrade":
+	{
+		"crafting": 100,
+		"smithing": 100
+	},
+	"storagenetwork:inventory_remote":
+	{
+		"crafting": 100,
+		"smithing": 100
+	},
+	"storagenetwork:crafting_remote":
+	{
+		"crafting": 100,
+		"smithing": 100
+	},
+	"storagenetwork:picker_remote":
+	{
+		"crafting": 100,
+		"smithing": 100
+	},
+	"storagenetwork:collector_remote":
+	{
+		"crafting": 100,
+		"smithing": 100
+	},
+	"storagenetwork:builder_remote":
+	{
+		"crafting": 100,
+		"smithing": 100
 	}
 }
