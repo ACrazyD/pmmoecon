@@ -49,35 +49,35 @@
 	},
 	"minecraft:iron_pickaxe":
 	{
-		"mining": 20
+		"mining": 15
 	},
 	"minecraft:iron_shovel":
 	{
-		"excavation": 20
+		"excavation": 15
 	},
 	"minecraft:iron_axe":
 	{
-		"woodcutting": 20
+		"woodcutting": 15
 	},
 	"minecraft:iron_hoe":
 	{
-		"farming": 20
+		"farming": 15
 	},
 	"minecraft:stone_pickaxe":
 	{
-		"mining": 10
+		"mining": 3
 	},
 	"minecraft:stone_shovel":
 	{
-		"excavation": 10
+		"excavation": 3
 	},
 	"minecraft:stone_axe":
 	{
-		"woodcutting": 10
+		"woodcutting": 3
 	},
 	"minecraft:stone_hoe":
 	{
-		"farming": 10
+		"farming": 3
 	},
 	"minecraft:wooden_pickaxe":
 	{

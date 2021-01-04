@@ -53,35 +53,35 @@
 	},
 	"minecraft:iron_pickaxe":
 	{
-		"combat": 20
+		"combat": 15
 	},
 	"minecraft:iron_shovel":
 	{
-		"combat": 20
+		"combat": 15
 	},
 	"minecraft:iron_axe":
 	{
-		"combat": 25
+		"combat": 15
 	},
 	"minecraft:iron_sword":
 	{
-		"combat": 20
+		"combat": 15
 	},
 	"minecraft:stone_pickaxe":
 	{
-		"combat": 10
+		"combat": 3
 	},
 	"minecraft:stone_shovel":
 	{
-		"combat": 10
+		"combat": 3
 	},
 	"minecraft:stone_axe":
 	{
-		"combat": 15
+		"combat": 3
 	},
 	"minecraft:stone_sword":
 	{
-		"combat": 10
+		"combat": 3
 	},
 	"minecraft:wooden_pickaxe":
 	{
