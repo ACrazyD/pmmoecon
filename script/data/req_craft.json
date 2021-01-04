@@ -469,6 +469,12 @@
 	{
 		"crafting": 60
 	},
+	"mining_dimension:teleporter":
+	{
+		"smithing": 10,
+		"crafting": 15,
+		"mining": 20
+	},
 	"mininggadgets:mininggadget":
 	{
 		"crafting": 80,
