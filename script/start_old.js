@@ -3939,4 +3939,4 @@ validKeys2.forEach( key =>
 console.log( "JSON Successfully built!" );
 
 module.exports.data = data;
-module.exports.data2 = data2
+module.exports.data2 = data2;
