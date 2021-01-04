@@ -545,6 +545,62 @@
 	{
 		"farming": 1.25
 	},
+	"oresandmetals:light_animica_ore":
+	{
+		"mining": 85
+	},
+	"oresandmetals:dark_animica_ore":
+	{
+		"mining": 85
+	},
+	"oresandmetals:banite_ore":
+	{
+		"mining": 75
+	},
+	"oresandmetals:necrite_ore":
+	{
+		"mining": 65
+	},
+	"oresandmetals:phasmatite_ore":
+	{
+		"mining": 65
+	},
+	"oresandmetals:orichalcite_ore":
+	{
+		"mining": 55
+	},
+	"oresandmetals:drakolith_ore":
+	{
+		"mining": 55
+	},
+	"oresandmetals:runite_ore":
+	{
+		"mining": 45
+	},
+	"oresandmetals:adamantite_ore":
+	{
+		"mining": 30
+	},
+	"oresandmetals:mithril_ore":
+	{
+		"mining": 20
+	},
+	"oresandmetals:tin_ore":
+	{
+		"mining": 7
+	},
+	"oresandmetals:copper_ore":
+	{
+		"mining": 4
+	},
+	"appliedenergistics2:quartz_ore":
+	{
+		"mining": 8
+	},
+	"appliedenergistics2:charged_quartz_ore":
+	{
+		"mining": 20
+	},
 	"create:copper_ore":
 	{
 		"mining": 7
@@ -605,6 +661,140 @@
 	{
 		"mining": 0.65
 	},
+	"endreborn:quartz_ore":
+	{
+		"mining": 13
+	},
+	"endreborn:obsidian_ore":
+	{
+		"mining": 50
+	},
+	"endreborn:wolframium_ore":
+	{
+		"mining": 12
+	},
+	"endreborn:end_wolframium_ore":
+	{
+		"mining": 14
+	},
+	"biomesoplenty:fir_wood":
+	{
+		"woodcutting": 8
+	},
+	"biomesoplenty:redwood_wood":
+	{
+		"woodcutting": 7
+	},
+	"biomesoplenty:cherry_wood":
+	{
+		"woodcutting": 15
+	},
+	"biomesoplenty:mahogany_wood":
+	{
+		"woodcutting": 8
+	},
+	"biomesoplenty:jacaranda_wood":
+	{
+		"woodcutting": 9
+	},
+	"biomesoplenty:palm_wood":
+	{
+		"woodcutting": 12
+	},
+	"biomesoplenty:willow_wood":
+	{
+		"woodcutting": 14
+	},
+	"biomesoplenty:dead_wood":
+	{
+		"woodcutting": 6
+	},
+	"biomesoplenty:magic_wood":
+	{
+		"woodcutting": 15,
+		"magic": 5
+	},
+	"biomesoplenty:umbran_wood":
+	{
+		"woodcutting": 9
+	},
+	"biomesoplenty:hellbark_wood":
+	{
+		"woodcutting": 10
+	},
+	"biomesoplenty:fir_log":
+	{
+		"woodcutting": 8
+	},
+	"biomesoplenty:redwood_log":
+	{
+		"woodcutting": 7
+	},
+	"biomesoplenty:cherry_log":
+	{
+		"woodcutting": 15
+	},
+	"biomesoplenty:mahogany_log":
+	{
+		"woodcutting": 8
+	},
+	"biomesoplenty:jacaranda_log":
+	{
+		"woodcutting": 9
+	},
+	"biomesoplenty:palm_log":
+	{
+		"woodcutting": 12
+	},
+	"biomesoplenty:willow_log":
+	{
+		"woodcutting": 14
+	},
+	"biomesoplenty:dead_log":
+	{
+		"woodcutting": 6
+	},
+	"biomesoplenty:magic_log":
+	{
+		"woodcutting": 15,
+		"magic": 5
+	},
+	"biomesoplenty:umbran_log":
+	{
+		"woodcutting": 9
+	},
+	"biomesoplenty:hellbark_log":
+	{
+		"woodcutting": 10
+	},
+	"biomesoplenty:white_sand":
+	{
+		"excavation": 1.3
+	},
+	"traverse:fir_wood":
+	{
+		"woodcutting": 7
+	},
+	"traverse:fir_log":
+	{
+		"woodcutting": 7
+	},
+	"autumnity:sappy_maple_wood":
+	{
+		"woodcutting": 13
+	},
+	"autumnity:maple_wood":
+	{
+		"woodcutting": 13
+	},
+	"autumnity:sappy_maple_log":
+	{
+		"woodcutting": 13
+	},
+	"autumnity:maple_log":
+	{
+		"woodcutting": 13
+	},
 	"charm:nether_gold_deposit":
 	{
 		"mining": 2
@@ -613,988 +803,472 @@
 	{
 		"mining": 12
 	},
-	"quark:blue_blossom_leaves":
+	"treemendous:douglas_sapling":
 	{
-		"woodcutting": 1
+		"woodcutting": 10
 	},
-	"quark:lavender_blossom_leaves":
+	"treemendous:douglas_log":
 	{
-		"woodcutting": 1
+		"woodcutting": 5
 	},
-	"quark:orange_blossom_leaves":
+	"treemendous:douglas_wood":
 	{
-		"woodcutting": 1
+		"woodcutting": 5
 	},
-	"quark:pink_blossom_leaves":
+	"treemendous:douglas_planks":
 	{
-		"woodcutting": 1
+		"woodcutting": 5
 	},
-	"quark:yellow_blossom_leaves":
+	"treemendous:douglas_leaves":
 	{
-		"woodcutting": 1
+		"woodcutting": 1.5
 	},
-	"quark:red_blossom_leaves":
+	"treemendous:pine_sapling":
 	{
-		"woodcutting": 1
+		"woodcutting": 10
 	},
-	"quark:blue_blossom_sapling":
+	"treemendous:pine_log":
 	{
-		"farming": 2
+		"woodcutting": 5
 	},
-	"quark:lavender_blossom_sapling":
+	"treemendous:pine_wood":
 	{
-		"farming": 2
+		"woodcutting": 5
 	},
-	"quark:orange_blossom_sapling":
+	"treemendous:pine_planks":
 	{
-		"farming": 2
+		"woodcutting": 5
 	},
-	"quark:pink_blossom_sapling":
+	"treemendous:pine_leaves":
 	{
-		"farming": 2
+		"woodcutting": 1.5
 	},
-	"quark:yellow_blossom_sapling":
+	"treemendous:larch_sapling":
 	{
-		"farming": 2
+		"woodcutting": 10
 	},
-	"quark:red_blossom_sapling":
+	"treemendous:larch_log":
 	{
-		"farming": 2
+		"woodcutting": 5
 	},
-	"pamhc2crops:sesameseedsitem":
+	"treemendous:larch_wood":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:mustardseedsitem":
+	"treemendous:larch_planks":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:agaveseeditem":
+	"treemendous:larch_leaves":
 	{
-		"farming": 1
+		"woodcutting": 1.5
 	},
-	"pamhc2crops:amaranthseeditem":
+	"treemendous:fir_sapling":
 	{
-		"farming": 1
+		"woodcutting": 10
 	},
-	"pamhc2crops:arrowrootseeditem":
+	"treemendous:fir_log":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:artichokeseeditem":
+	"treemendous:fir_wood":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:asparagusseeditem":
+	"treemendous:fir_planks":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:barleyseeditem":
+	"treemendous:fir_leaves":
 	{
-		"farming": 1
+		"woodcutting": 1.5
 	},
-	"pamhc2crops:beanseeditem":
+	"treemendous:maple_sapling":
 	{
-		"farming": 1
+		"woodcutting": 10
 	},
-	"pamhc2crops:bellpepperseeditem":
+	"treemendous:maple_log":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:blackberryseeditem":
+	"treemendous:maple_wood":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:blueberryseeditem":
+	"treemendous:maple_planks":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:broccoliseeditem":
+	"treemendous:maple_leaves":
 	{
-		"farming": 1
+		"woodcutting": 1.5
 	},
-	"pamhc2crops:brusselsproutseeditem":
+	"treemendous:red_maple_leaves":
 	{
-		"farming": 1
+		"woodcutting": 1.5
 	},
-	"pamhc2crops:cabbageseeditem":
+	"treemendous:brown_maple_leaves":
 	{
-		"farming": 1
+		"woodcutting": 1.5
 	},
-	"pamhc2crops:cactusfruitseeditem":
+	"treemendous:japanese_sapling":
 	{
-		"farming": 1
+		"woodcutting": 10
 	},
-	"pamhc2crops:candleberryseeditem":
+	"treemendous:japanese_log":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:cantaloupeseeditem":
+	"treemendous:japanese_wood":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:cassavaseeditem":
+	"treemendous:japanese_planks":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:cauliflowerseeditem":
+	"treemendous:japanese_leaves":
 	{
-		"farming": 1
+		"woodcutting": 1.5
 	},
-	"pamhc2crops:celeryseeditem":
+	"treemendous:beech_sapling":
 	{
-		"farming": 1
+		"woodcutting": 10
 	},
-	"pamhc2crops:chickpeaseeditem":
+	"treemendous:beech_log":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:chilipepperseeditem":
+	"treemendous:beech_wood":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:coffeebeanseeditem":
+	"treemendous:beech_planks":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:cornseeditem":
+	"treemendous:beech_leaves":
 	{
-		"farming": 1
+		"woodcutting": 1.5
 	},
-	"pamhc2crops:cottonseeditem":
+	"treemendous:cherry_sapling":
 	{
-		"farming": 1
+		"woodcutting": 10
 	},
-	"pamhc2crops:cranberryseeditem":
+	"treemendous:cherry_log":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:cucumberseeditem":
+	"treemendous:cherry_wood":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:eggplantseeditem":
+	"treemendous:cherry_planks":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:elderberryseeditem":
+	"treemendous:cherry_leaves":
 	{
-		"farming": 1
+		"woodcutting": 1.5
 	},
-	"pamhc2crops:flaxseeditem":
+	"treemendous:alder_sapling":
 	{
-		"farming": 1
+		"woodcutting": 10
 	},
-	"pamhc2crops:garlicseeditem":
+	"treemendous:alder_log":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:gingerseeditem":
+	"treemendous:alder_wood":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:grapeseeditem":
+	"treemendous:alder_planks":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:greengrapeseeditem":
+	"treemendous:alder_leaves":
 	{
-		"farming": 1
+		"woodcutting": 1.5
 	},
-	"pamhc2crops:huckleberryseeditem":
+	"treemendous:chestnut_sapling":
 	{
-		"farming": 1
+		"woodcutting": 10
 	},
-	"pamhc2crops:jicamaseeditem":
+	"treemendous:chestnut_log":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:juniperberryseeditem":
+	"treemendous:chestnut_wood":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:juteseeditem":
+	"treemendous:chestnut_planks":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:kaleseeditem":
+	"treemendous:chestnut_leaves":
 	{
-		"farming": 1
+		"woodcutting": 1.5
 	},
-	"pamhc2crops:kenafseeditem":
+	"treemendous:plane_sapling":
 	{
-		"farming": 1
+		"woodcutting": 10
 	},
-	"pamhc2crops:kiwiseeditem":
+	"treemendous:plane_log":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:kohlrabiseeditem":
+	"treemendous:plane_wood":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:leekseeditem":
+	"treemendous:plane_planks":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:lentilseeditem":
+	"treemendous:plane_leaves":
 	{
-		"farming": 1
+		"woodcutting": 1.5
 	},
-	"pamhc2crops:lettuceseeditem":
+	"treemendous:ash_sapling":
 	{
-		"farming": 1
+		"woodcutting": 10
 	},
-	"pamhc2crops:milletseeditem":
+	"treemendous:ash_log":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:mulberryseeditem":
+	"treemendous:ash_wood":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:mustardseedsseeditem":
+	"treemendous:ash_planks":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:oatsseeditem":
+	"treemendous:ash_leaves":
 	{
-		"farming": 1
+		"woodcutting": 1.5
 	},
-	"pamhc2crops:okraseeditem":
+	"treemendous:linden_sapling":
 	{
-		"farming": 1
+		"woodcutting": 10
 	},
-	"pamhc2crops:onionseeditem":
+	"treemendous:linden_log":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:parsnipseeditem":
+	"treemendous:linden_wood":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:peanutseeditem":
+	"treemendous:linden_planks":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:peasseeditem":
+	"treemendous:linden_leaves":
 	{
-		"farming": 1
+		"woodcutting": 1.5
 	},
-	"pamhc2crops:pineappleseeditem":
+	"treemendous:robinia_sapling":
 	{
-		"farming": 1
+		"woodcutting": 10
 	},
-	"pamhc2crops:quinoaseeditem":
+	"treemendous:robinia_log":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:radishseeditem":
+	"treemendous:robinia_wood":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:raspberryseeditem":
+	"treemendous:robinia_planks":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:rhubarbseeditem":
+	"treemendous:robinia_leaves":
 	{
-		"farming": 1
+		"woodcutting": 1.5
 	},
-	"pamhc2crops:riceseeditem":
+	"treemendous:willow_sapling":
 	{
-		"farming": 1
+		"woodcutting": 10
 	},
-	"pamhc2crops:rutabagaseeditem":
+	"treemendous:willow_log":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:ryeseeditem":
+	"treemendous:willow_wood":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:scallionseeditem":
+	"treemendous:willow_planks":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:sesameseedsseeditem":
+	"treemendous:willow_leaves":
 	{
-		"farming": 1
+		"woodcutting": 1.5
 	},
-	"pamhc2crops:sisalseeditem":
+	"treemendous:pomegranate_sapling":
 	{
-		"farming": 1
+		"woodcutting": 10
 	},
-	"pamhc2crops:soybeanseeditem":
+	"treemendous:pomegranate_log":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:spiceleafseeditem":
+	"treemendous:pomegranate_wood":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:spinachseeditem":
+	"treemendous:pomegranate_planks":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:strawberryseeditem":
+	"treemendous:pomegranate_leaves":
 	{
-		"farming": 1
+		"woodcutting": 1.5
 	},
-	"pamhc2crops:sweetpotatoseeditem":
+	"treemendous:magnolia_sapling":
 	{
-		"farming": 1
+		"woodcutting": 10
 	},
-	"pamhc2crops:taroseeditem":
+	"treemendous:magnolia_log":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:tealeafseeditem":
+	"treemendous:magnolia_wood":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:tomatilloseeditem":
+	"treemendous:magnolia_planks":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:tomatoseeditem":
+	"treemendous:magnolia_leaves":
 	{
-		"farming": 1
+		"woodcutting": 1.5
 	},
-	"pamhc2crops:turnipseeditem":
+	"treemendous:walnut_sapling":
 	{
-		"farming": 1
+		"woodcutting": 10
 	},
-	"pamhc2crops:waterchestnutseeditem":
+	"treemendous:walnut_log":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:whitemushroomseeditem":
+	"treemendous:walnut_wood":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:wintersquashseeditem":
+	"treemendous:walnut_planks":
 	{
-		"farming": 1
+		"woodcutting": 5
 	},
-	"pamhc2crops:zucchiniseeditem":
+	"treemendous:walnut_leaves":
 	{
-		"farming": 1
+		"woodcutting": 1.5
 	},
-	"pamhc2trees:pamorange":
+	"treemendous:cedar_sapling":
 	{
-		"farming": 3
+		"woodcutting": 10
 	},
-	"pamhc2trees:pamnutmeg":
+	"treemendous:cedar_log":
 	{
-		"farming": 3
+		"woodcutting": 5
 	},
-	"pamhc2trees:pamlemon":
+	"treemendous:cedar_wood":
 	{
-		"farming": 3
+		"woodcutting": 5
 	},
-	"pamhc2trees:pamgooseberry":
+	"treemendous:cedar_planks":
 	{
-		"farming": 3
+		"woodcutting": 5
 	},
-	"pamhc2trees:pamchestnut":
+	"treemendous:cedar_leaves":
 	{
-		"farming": 3
+		"woodcutting": 1.5
 	},
-	"pamhc2trees:pamcherry":
+	"treemendous:poplar_sapling":
 	{
-		"farming": 3
+		"woodcutting": 10
 	},
-	"pamhc2trees:pamcandlenut":
+	"treemendous:poplar_log":
 	{
-		"farming": 3
+		"woodcutting": 5
 	},
-	"pamhc2trees:pamavocado":
+	"treemendous:poplar_wood":
 	{
-		"farming": 3
+		"woodcutting": 5
 	},
-	"pamhc2trees:pamapple":
+	"treemendous:poplar_planks":
 	{
-		"farming": 3
+		"woodcutting": 5
 	},
-	"pamhc2trees:pampomegranate":
+	"treemendous:poplar_leaves":
 	{
-		"farming": 3
+		"woodcutting": 1.5
 	},
-	"pamhc2trees:pampeppercorn":
+	"treemendous:elm_sapling":
 	{
-		"farming": 3
+		"woodcutting": 10
 	},
-	"pamhc2trees:pamolive":
+	"treemendous:elm_log":
 	{
-		"farming": 3
+		"woodcutting": 5
 	},
-	"pamhc2trees:pampawpaw":
+	"treemendous:elm_wood":
 	{
-		"farming": 3
+		"woodcutting": 5
 	},
-	"pamhc2trees:pamwalnut":
+	"treemendous:elm_planks":
 	{
-		"farming": 3
+		"woodcutting": 5
 	},
-	"pamhc2trees:pampeach":
+	"treemendous:elm_leaves":
 	{
-		"farming": 3
+		"woodcutting": 1.5
 	},
-	"pamhc2trees:pamapricot":
+	"treemendous:rainbow_eucalyptus_sapling":
 	{
-		"farming": 3
+		"woodcutting": 10
 	},
-	"pamhc2trees:pamcoconut":
+	"treemendous:rainbow_eucalyptus_log":
 	{
-		"farming": 3
+		"woodcutting": 5
 	},
-	"pamhc2trees:pamdurian":
+	"treemendous:rainbow_eucalyptus_wood":
 	{
-		"farming": 3
+		"woodcutting": 5
 	},
-	"pamhc2trees:pampistachio":
+	"treemendous:rainbow_eucalyptus_planks":
 	{
-		"farming": 3
+		"woodcutting": 5
 	},
-	"pamhc2trees:pampecan":
+	"treemendous:rainbow_eucalyptus_leaves":
 	{
-		"farming": 3
+		"woodcutting": 1.5
 	},
-	"pamhc2trees:pammango":
+	"treemendous:juniper_sapling":
 	{
-		"farming": 3
+		"woodcutting": 10
 	},
-	"pamhc2trees:pamhazelnut":
+	"treemendous:juniper_log":
 	{
-		"farming": 3
+		"woodcutting": 5
 	},
-	"pamhc2trees:pamplum":
+	"treemendous:juniper_wood":
 	{
-		"farming": 3
+		"woodcutting": 5
 	},
-	"pamhc2trees:pamsoursop":
+	"treemendous:juniper_planks":
 	{
-		"farming": 3
+		"woodcutting": 5
 	},
-	"pamhc2trees:pambanana":
+	"treemendous:juniper_leaves":
 	{
-		"farming": 3
-	},
-	"pamhc2trees:pamdate":
-	{
-		"farming": 3
-	},
-	"pamhc2trees:pamfig":
-	{
-		"farming": 3
-	},
-	"pamhc2trees:pampersimmon":
-	{
-		"farming": 3
-	},
-	"pamhc2trees:pampapaya":
-	{
-		"farming": 3
-	},
-	"pamhc2trees:pamlime":
-	{
-		"farming": 3
-	},
-	"pamhc2trees:pamspiderweb":
-	{
-		"combat": 3
-	},
-	"pamhc2trees:pampear":
-	{
-		"farming": 3
-	},
-	"pamhc2trees:pamalmond":
-	{
-		"farming": 3
-	},
-	"pamhc2trees:pamcashew":
-	{
-		"farming": 3
-	},
-	"pamhc2trees:pamdragonfruit":
-	{
-		"farming": 3
-	},
-	"pamhc2trees:pamgrapefruit":
-	{
-		"farming": 3
-	},
-	"pamhc2trees:pamlychee":
-	{
-		"farming": 3
-	},
-	"pamhc2trees:pamjackfruit":
-	{
-		"farming": 3
-	},
-	"pamhc2trees:pamguava":
-	{
-		"farming": 3
-	},
-	"pamhc2trees:pambreadfruit":
-	{
-		"farming": 3
-	},
-	"pamhc2trees:pamvanillabean":
-	{
-		"farming": 3
-	},
-	"pamhc2trees:pamstarfruit":
-	{
-		"farming": 3
-	},
-	"pamhc2trees:pampinenut":
-	{
-		"farming": 3
-	},
-	"pamhc2trees:pamtamarind":
-	{
-		"farming": 3
-	},
-	"pamhc2trees:pamrambutan":
-	{
-		"farming": 3
-	},
-	"pamhc2trees:pampassionfruit":
-	{
-		"farming": 3
-	},
-	"byg:byg_logo":
-	{
-		"woodcutting": 8
-	},
-	"byg:aspen_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_aspen_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:baobab_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_baobab_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:blue_enchanted_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_blue_enchanted_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:cherry_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_cherry_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:cika_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_cika_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:cypress_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_cypress_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:ebony_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_ebony_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:ether_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_ether_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:fir_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_fir_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:green_enchanted_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_green_enchanted_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:holly_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_holly_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:jacaranda_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_jacaranda_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:lament_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_lament_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:mahogany_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_mahogany_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:mangrove_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_mangrove_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:maple_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_maple_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:nightshade_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_nightshade_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:palm_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_palm_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:palo_verde_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_palo_verde_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:pine_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_pine_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:rainbow_eucalyptus_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_rainbow_eucalyptus_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:redwood_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_redwood_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:skyris_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_skyris_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:willow_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_willow_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:witch_hazel_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_witch_hazel_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:zelkova_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:stripped_zelkova_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:withering_oak_log":
-	{
-		"woodcutting": 8
-	},
-	"byg:aspen_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:baobab_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:blue_enchanted_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:pink_cherry_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:white_cherry_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:cika_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:cypress_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:ebony_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:ether_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:fir_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:green_enchanted_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:holly_berry_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:holly_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:jacaranda_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:indigo_jacaranda_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:lament_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:mahogany_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:mangrove_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:maple_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:red_maple_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:silver_maple_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:flowering_nightshade_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:nightshade_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:palm_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:flowering_palo_verde_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:palo_verde_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:pine_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:rainbow_eucalyptus_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:redwood_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:green_apple_skyris_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:skyris_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:willow_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:blooming_witch_hazel_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:witch_hazel_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:zelkova_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:withering_oak_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:araucaria_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:blue_spruce_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:brown_birch_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:brown_oak_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:brown_zelkova_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:joshua_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:ripe_joshua_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:orange_birch_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:orange_oak_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:orange_spruce_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:ripe_orchard_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:flowering_orchard_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:orchard_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:red_birch_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:red_oak_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:red_spruce_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:yellow_birch_leaves":
-	{
-		"woodcutting": 1
-	},
-	"byg:yellow_spruce_leaves":
-	{
-		"woodcutting": 1
+		"woodcutting": 1.5
 	}
 }

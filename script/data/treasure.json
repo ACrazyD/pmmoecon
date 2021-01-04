@@ -250,6 +250,16 @@
 			"xpPerItem": 2,
 			"minCount": 1,
 			"maxCount": 4
+		},
+		"biomesoplenty:white_sand":
+		{
+			"startChance": 0.05,
+			"startLevel": 1,
+			"endChance": 1,
+			"endLevel": 180,
+			"xpPerItem": 2,
+			"minCount": 1,
+			"maxCount": 4
 		}
 	},
 	"minecraft:grass_block":
@@ -431,6 +441,16 @@
 			"maxCount": 1
 		},
 		"minecraft:music_disc_wait":
+		{
+			"startChance": 0.05,
+			"startLevel": 1,
+			"endChance": 0.2,
+			"endLevel": 100,
+			"xpPerItem": 12.5,
+			"minCount": 1,
+			"maxCount": 1
+		},
+		"minecraft:music_disc_pigstep":
 		{
 			"startChance": 0.05,
 			"startLevel": 1,

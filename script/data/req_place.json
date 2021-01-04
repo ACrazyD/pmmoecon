@@ -49,6 +49,182 @@
 		"farming": 5,
 		"woodcutting": 15
 	},
+	"appliedenergistics2:controller":
+	{
+		"building": 20
+	},
+	"appliedenergistics2:drive":
+	{
+		"building": 25
+	},
+	"appliedenergistics2:io_port":
+	{
+		"building": 35
+	},
+	"appliedenergistics2:terminal":
+	{
+		"building": 25
+	},
+	"appliedenergistics2:pattern_terminal":
+	{
+		"building": 30
+	},
+	"appliedenergistics2:crafting_terminal":
+	{
+		"building": 35
+	},
+	"appliedenergistics2:interface_terminal":
+	{
+		"building": 40
+	},
+	"appliedenergistics2:fluid_terminal":
+	{
+		"building": 30
+	},
+	"appliedenergistics2:annihilation_plane":
+	{
+		"building": 42
+	},
+	"appliedenergistics2:formation_plane":
+	{
+		"building": 40
+	},
+	"appliedenergistics2:fluid_annihilation_plane":
+	{
+		"building": 35
+	},
+	"appliedenergistics2:fluid_formation_plane":
+	{
+		"building": 32
+	},
+	"appliedenergistics2:interface":
+	{
+		"building": 40
+	},
+	"appliedenergistics2:fluid_interface":
+	{
+		"building": 30
+	},
+	"appliedenergistics2:quartz_growth_accelerator":
+	{
+		"building": 30
+	},
+	"appliedenergistics2:crafting_accelerator":
+	{
+		"building": 30
+	},
+	"appliedenergistics2:1k_crafting_storage":
+	{
+		"building": 20
+	},
+	"appliedenergistics2:4k_crafting_storage":
+	{
+		"building": 30
+	},
+	"appliedenergistics2:16k_crafting_storage":
+	{
+		"building": 40
+	},
+	"appliedenergistics2:64k_crafting_storage":
+	{
+		"building": 50
+	},
+	"appliedenergistics2:vibration_chamber":
+	{
+		"building": 10
+	},
+	"appliedenergistics2:molecular_assembler":
+	{
+		"building": 40
+	},
+	"appliedenergistics2:wireless_access_point":
+	{
+		"building": 25
+	},
+	"appliedenergistics2:wireless_receiver":
+	{
+		"building": 25
+	},
+	"appliedenergistics2:security_station":
+	{
+		"building": 15
+	},
+	"appliedenergistics2:condenser":
+	{
+		"building": 35
+	},
+	"appliedenergistics2:spatial_pylon":
+	{
+		"building": 50
+	},
+	"appliedenergistics2:spatial_io_port":
+	{
+		"building": 30
+	},
+	"appliedenergistics2:storage_bus":
+	{
+		"building": 25
+	},
+	"appliedenergistics2:fluid_storage_bus":
+	{
+		"building": 20
+	},
+	"appliedenergistics2:import_bus":
+	{
+		"building": 35
+	},
+	"appliedenergistics2:fluid_import_bus":
+	{
+		"building": 30
+	},
+	"appliedenergistics2:export_bus":
+	{
+		"building": 35
+	},
+	"appliedenergistics2:fluid_export_bus":
+	{
+		"building": 30
+	},
+	"ironchest:iron_chest":
+	{
+		"building": 20
+	},
+	"ironchest:gold_chest":
+	{
+		"building": 30
+	},
+	"ironchest:diamond_chest":
+	{
+		"building": 40
+	},
+	"ironchest:copper_chest":
+	{
+		"building": 10
+	},
+	"ironchest:silver_chest":
+	{
+		"building": 20
+	},
+	"ironchest:crystal_chest":
+	{
+		"building": 50
+	},
+	"ironchest:obsidian_chest":
+	{
+		"building": 50
+	},
+	"enderstorage:ender_chest":
+	{
+		"building": 30
+	},
+	"enderstorage:ender_tank":
+	{
+		"building": 40
+	},
+	"create:redstone_link":
+	{
+		"building": 20
+	},
 	"create:schematicannon":
 	{
 		"building": 20
@@ -305,8 +481,280 @@
 	{
 		"building": 20
 	},
-	"create:redstone_link":
+	"storagedrawers:controller":
 	{
 		"building": 20
+	},
+	"storagedrawers:controller_slave":
+	{
+		"building": 25
+	},
+	"storagedrawers:compacting_drawers_3":
+	{
+		"building": 15
+	},
+	"biomesoplenty:origin_sapling":
+	{
+		"farming": 10,
+		"woodcutting": 15
+	},
+	"biomesoplenty:flowering_oak_sapling":
+	{
+		"farming": 30,
+		"woodcutting": 20
+	},
+	"biomesoplenty:rainbow_birch_sapling":
+	{
+		"farming": 50,
+		"woodcutting": 25
+	},
+	"biomesoplenty:yellow_autumn_sapling":
+	{
+		"farming": 35,
+		"woodcutting": 25
+	},
+	"biomesoplenty:orange_autumn_sapling":
+	{
+		"farming": 45,
+		"woodcutting": 25
+	},
+	"biomesoplenty:maple_sapling":
+	{
+		"farming": 25,
+		"woodcutting": 50
+	},
+	"biomesoplenty:fir_sapling":
+	{
+		"farming": 35,
+		"woodcutting": 35
+	},
+	"biomesoplenty:redwood_sapling":
+	{
+		"farming": 30,
+		"woodcutting": 60
+	},
+	"biomesoplenty:white_cherry_sapling":
+	{
+		"farming": 35,
+		"woodcutting": 25
+	},
+	"biomesoplenty:pink_cherry_sapling":
+	{
+		"farming": 40,
+		"woodcutting": 20
+	},
+	"biomesoplenty:mahogany_sapling":
+	{
+		"farming": 25,
+		"woodcutting": 35
+	},
+	"biomesoplenty:jacaranda_sapling":
+	{
+		"farming": 45,
+		"woodcutting": 20
+	},
+	"biomesoplenty:palm_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 15
+	},
+	"biomesoplenty:willow_sapling":
+	{
+		"farming": 30,
+		"woodcutting": 45
+	},
+	"biomesoplenty:dead_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 15
+	},
+	"biomesoplenty:magic_sapling":
+	{
+		"farming": 45,
+		"woodcutting": 45
+	},
+	"biomesoplenty:umbran_sapling":
+	{
+		"farming": 30,
+		"woodcutting": 55
+	},
+	"biomesoplenty:hellbark_sapling":
+	{
+		"farming": 25,
+		"woodcutting": 5
+	},
+	"traverse:red_autumnal_sapling":
+	{
+		"farming": 35,
+		"woodcutting": 25
+	},
+	"traverse:brown_autumnal_sapling":
+	{
+		"farming": 30,
+		"woodcutting": 30
+	},
+	"traverse:orange_autumnal_sapling":
+	{
+		"farming": 25,
+		"woodcutting": 35
+	},
+	"traverse:yellow_autumnal_sapling":
+	{
+		"farming": 30,
+		"woodcutting": 35
+	},
+	"traverse:fir_sapling":
+	{
+		"farming": 35,
+		"woodcutting": 60
+	},
+	"autumnity:red_maple_sapling":
+	{
+		"farming": 30,
+		"woodcutting": 50
+	},
+	"autumnity:orange_maple_sapling":
+	{
+		"farming": 35,
+		"woodcutting": 45
+	},
+	"autumnity:yellow_maple_sapling":
+	{
+		"farming": 30,
+		"woodcutting": 40
+	},
+	"autumnity:maple_sapling":
+	{
+		"farming": 25,
+		"woodcutting": 35
+	},
+	"bountifulbaubles:water_candle":
+	{
+		"magic": 10
+	},
+	"treemendous:douglas_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:pine_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:larch_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:fir_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:maple_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:red_maple_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:brown_maple_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:japanese_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:beech_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:cherry_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:alder_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:chestnut_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:plane_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:ash_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:linden_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:robinia_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:willow_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:pomegranate_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:magnolia_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:walnut_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:cedar_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:poplar_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:elm_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:rainbow_eucalyptus_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
+	},
+	"treemendous:juniper_sapling":
+	{
+		"farming": 15,
+		"woodcutting": 30
 	}
 }
