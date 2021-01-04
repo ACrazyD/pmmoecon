@@ -3140,6 +3140,7 @@ addData( "info_ore", "create:zinc_ore",													{ "extraChance": 0.75 } );
 addData( "xp_value_break", "create:dolomite",											{ "mining": 0.25 } );
 addData( "xp_value_break", "create:polished_dolomite",									{ "mining": 0.25 } );
 addData( "xp_value_smelt", "create:dough",												{ "cooking": 3.5 } );
+}
 addData2( "salvage", "create:dolomite", "minecraft:cobblestone",
 {
 	"salvageMax": 1,
