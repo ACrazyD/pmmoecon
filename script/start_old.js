@@ -482,7 +482,6 @@ addData( "block_specific", "minecraft:kelp",											{ "growsUpwards": 1 } );
 addData( "block_specific", "minecraft:kelp_plant",										{ "growsUpwards": 1 } );
 addData( "block_specific", "minecraft:bamboo",											{ "growsUpwards": 1 } );
 addData( "block_specific", "minecraft:cactus",											{ "growsUpwards": 1 } );
-addData( "xp_value_tame", "minecraft:exampleanimal",									{ "taming": 10 } );
 addData( "req_kill", "minecraft:silverfish",											{ "combat": 10 } );
 addData( "xp_value_kill", "minecraft:silverfish",										{ "combat": 35 } );
 addData( "xp_value_kill", "minecraft:zombie",											{ "combat": 15 } );
@@ -3650,8 +3649,9 @@ addData( "req_craft", "expandedstorage:gold_to_netherite_conversion_kit", { "cra
 addData( "req_craft", "expandedstorage:diamond_to_netherite_conversion_kit", { "crafting": 60 } );
 addData( "req_craft", "expandedstorage:obsidian_to_netherite_conversion_kit", { "crafting": 60 } );
 }
-//Mining Dim Addon
+//Mining Addon
 {
+addData( "req_craft", "mining_dimension:teleporter", { "smithing": 10, "crafting": 15, "mining":20 } );
 addData( "req_craft", "mininggadgets:mininggadget", { "crafting": 80, "mining": 70 } );
 addData( "req_tool", "mininggadgets:mininggadget", { "mining": 80 } );
 }
