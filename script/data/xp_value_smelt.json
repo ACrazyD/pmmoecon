@@ -281,22 +281,6 @@
 	{
 		"smithing": 1.5
 	},
-	"appliedenergistics2:gold_dust":
-	{
-		"smithing": 16
-	},
-	"appliedenergistics2:iron_dust":
-	{
-		"smithing": 24
-	},
-	"appliedenergistics2:nether_quartz_dust":
-	{
-		"smithing": 12
-	},
-	"appliedenergistics2:certus_quartz_dust":
-	{
-		"smithing": 16
-	},
 	"create:copper_ore":
 	{
 		"smithing": 7
@@ -325,86 +309,9 @@
 	{
 		"smithing": 23.5
 	},
-	"endreborn:wolframium_horse_armor":
+	"create:dough":
 	{
-		"smithing": 20
-	},
-	"endreborn:quartz_ore":
-	{
-		"smithing": 13
-	},
-	"endreborn:wolframium_ore":
-	{
-		"smithing": 12
-	},
-	"endreborn:end_wolframium_ore":
-	{
-		"smithing": 14
-	},
-	"biomesoplenty:mud_ball":
-	{
-		"smithing": 1.2
-	},
-	"biomesoplenty:fir_log":
-	{
-		"smithing": 0.25
-	},
-	"biomesoplenty:redwood_log":
-	{
-		"smithing": 0.25
-	},
-	"biomesoplenty:cherry_log":
-	{
-		"smithing": 0.25
-	},
-	"biomesoplenty:mahogany_log":
-	{
-		"smithing": 0.25
-	},
-	"biomesoplenty:jacaranda_log":
-	{
-		"smithing": 0.25
-	},
-	"biomesoplenty:palm_log":
-	{
-		"smithing": 0.25
-	},
-	"biomesoplenty:willow_log":
-	{
-		"smithing": 0.25
-	},
-	"biomesoplenty:dead_log":
-	{
-		"smithing": 0.25
-	},
-	"biomesoplenty:magic_log":
-	{
-		"smithing": 0.15,
-		"magic": 0.05
-	},
-	"biomesoplenty:umbran_log":
-	{
-		"smithing": 0.25
-	},
-	"biomesoplenty:hellbark_log":
-	{
-		"smithing": 0.25
-	},
-	"biomesoplenty:white_sand":
-	{
-		"smithing": 1
-	},
-	"autumnity:sappy_maple_log":
-	{
-		"smithing": 0.25
-	},
-	"autumnity:maple_log":
-	{
-		"smithing": 0.25
-	},
-	"aquaculture:tin_can":
-	{
-		"smithing": 12
+		"cooking": 3.5
 	},
 	"charm:nether_gold_deposit":
 	{
@@ -413,97 +320,5 @@
 	"charm:pig_iron_ore":
 	{
 		"smithing": 22
-	},
-	"treemendous:douglas_log":
-	{
-		"smithing": 0.25
-	},
-	"treemendous:pine_log":
-	{
-		"smithing": 0.25
-	},
-	"treemendous:larch_log":
-	{
-		"smithing": 0.25
-	},
-	"treemendous:fir_log":
-	{
-		"smithing": 0.25
-	},
-	"treemendous:maple_log":
-	{
-		"smithing": 0.25
-	},
-	"treemendous:japanese_log":
-	{
-		"smithing": 0.25
-	},
-	"treemendous:beech_log":
-	{
-		"smithing": 0.25
-	},
-	"treemendous:cherry_log":
-	{
-		"smithing": 0.25
-	},
-	"treemendous:alder_log":
-	{
-		"smithing": 0.25
-	},
-	"treemendous:chestnut_log":
-	{
-		"smithing": 0.25
-	},
-	"treemendous:plane_log":
-	{
-		"smithing": 0.25
-	},
-	"treemendous:ash_log":
-	{
-		"smithing": 0.25
-	},
-	"treemendous:linden_log":
-	{
-		"smithing": 0.25
-	},
-	"treemendous:robinia_log":
-	{
-		"smithing": 0.25
-	},
-	"treemendous:willow_log":
-	{
-		"smithing": 0.25
-	},
-	"treemendous:pomegranate_log":
-	{
-		"smithing": 0.25
-	},
-	"treemendous:magnolia_log":
-	{
-		"smithing": 0.25
-	},
-	"treemendous:walnut_log":
-	{
-		"smithing": 0.25
-	},
-	"treemendous:cedar_log":
-	{
-		"smithing": 0.25
-	},
-	"treemendous:poplar_log":
-	{
-		"smithing": 0.25
-	},
-	"treemendous:elm_log":
-	{
-		"smithing": 0.25
-	},
-	"treemendous:rainbow_eucalyptus_log":
-	{
-		"smithing": 0.25
-	},
-	"treemendous:juniper_log":
-	{
-		"smithing": 0.25
 	}
 }

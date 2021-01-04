@@ -279,22 +279,6 @@
 	{
 		"extraChance": 1.5
 	},
-	"appliedenergistics2:gold_dust":
-	{
-		"extraChance": 0.5
-	},
-	"appliedenergistics2:iron_dust":
-	{
-		"extraChance": 1
-	},
-	"appliedenergistics2:nether_quartz_dust":
-	{
-		"extraChance": 1
-	},
-	"appliedenergistics2:certus_quartz_dust":
-	{
-		"extraChance": 1.2
-	},
 	"create:copper_ore":
 	{
 		"extraChance": 0.85
@@ -323,22 +307,6 @@
 	{
 		"extraChance": 0.4
 	},
-	"endreborn:wolframium_horse_armor":
-	{
-		"extraChance": 50
-	},
-	"endreborn:end_wolframium_ore":
-	{
-		"extraChance": 1.2
-	},
-	"biomesoplenty:mud_ball":
-	{
-		"extraChance": 1.2
-	},
-	"aquaculture:tin_can":
-	{
-		"extraChance": 15
-	},
 	"charm:nether_gold_deposit":
 	{
 		"extraChance": 0.75
@@ -346,97 +314,5 @@
 	"charm:pig_iron_ore":
 	{
 		"extraChance": 0.75
-	},
-	"treemendous:douglas_log":
-	{
-		"extraChance": 1
-	},
-	"treemendous:pine_log":
-	{
-		"extraChance": 1
-	},
-	"treemendous:larch_log":
-	{
-		"extraChance": 1
-	},
-	"treemendous:fir_log":
-	{
-		"extraChance": 1
-	},
-	"treemendous:maple_log":
-	{
-		"extraChance": 1
-	},
-	"treemendous:japanese_log":
-	{
-		"extraChance": 1
-	},
-	"treemendous:beech_log":
-	{
-		"extraChance": 1
-	},
-	"treemendous:cherry_log":
-	{
-		"extraChance": 1
-	},
-	"treemendous:alder_log":
-	{
-		"extraChance": 1
-	},
-	"treemendous:chestnut_log":
-	{
-		"extraChance": 1
-	},
-	"treemendous:plane_log":
-	{
-		"extraChance": 1
-	},
-	"treemendous:ash_log":
-	{
-		"extraChance": 1
-	},
-	"treemendous:linden_log":
-	{
-		"extraChance": 1
-	},
-	"treemendous:robinia_log":
-	{
-		"extraChance": 1
-	},
-	"treemendous:willow_log":
-	{
-		"extraChance": 1
-	},
-	"treemendous:pomegranate_log":
-	{
-		"extraChance": 1
-	},
-	"treemendous:magnolia_log":
-	{
-		"extraChance": 1
-	},
-	"treemendous:walnut_log":
-	{
-		"extraChance": 1
-	},
-	"treemendous:cedar_log":
-	{
-		"extraChance": 1
-	},
-	"treemendous:poplar_log":
-	{
-		"extraChance": 1
-	},
-	"treemendous:elm_log":
-	{
-		"extraChance": 1
-	},
-	"treemendous:rainbow_eucalyptus_log":
-	{
-		"extraChance": 1
-	},
-	"treemendous:juniper_log":
-	{
-		"extraChance": 1
 	}
 }
