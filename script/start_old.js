@@ -3649,12 +3649,6 @@ addData( "req_craft", "expandedstorage:gold_to_netherite_conversion_kit", { "cra
 addData( "req_craft", "expandedstorage:diamond_to_netherite_conversion_kit", { "crafting": 60 } );
 addData( "req_craft", "expandedstorage:obsidian_to_netherite_conversion_kit", { "crafting": 60 } );
 }
-
-
-
-
-
-
 function addData2( dataKey, regKey, entryKey, entryObject, probe )
 {
 	if( probe != null )
