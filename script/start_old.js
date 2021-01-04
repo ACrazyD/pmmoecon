@@ -3655,6 +3655,27 @@ addData( "req_craft", "mining_dimension:teleporter", { "smithing": 10, "crafting
 addData( "req_craft", "mininggadgets:mininggadget", { "crafting": 80, "mining": 70 } );
 addData( "req_tool", "mininggadgets:mininggadget", { "mining": 80 } );
 }
+//StorageNetworks Addon
+{
+addData( "req_craft", "storagenetwork:inventory", { "crafting": 100, "smithing":100 });
+addData( "req_craft", "storagenetwork:master", { "crafting": 100, "smithing":100 });
+addData( "req_craft", "storagenetwork:request", { "crafting": 100, "smithing":100 });
+addData( "req_craft", "storagenetwork:kabel", { "crafting": 100, "smithing":100 });
+addData( "req_craft", "storagenetwork:storage_kabel", { "crafting": 100, "smithing":100 });
+addData( "req_craft", "storagenetwork:import_kabel", { "crafting": 100, "smithing":100 });
+addData( "req_craft", "storagenetwork:import_filter_kabel", { "crafting": 100, "smithing":100 });
+addData( "req_craft", "storagenetwork:filter_kabel", { "crafting": 100, "smithing":100 });
+addData( "req_craft", "storagenetwork:export_kabel", { "crafting": 100, "smithing":100 });
+addData( "req_craft", "storagenetwork:exchange", { "crafting": 100, "smithing":100 });
+addData( "req_craft", "storagenetwork:collector", { "crafting": 100, "smithing":100 });
+addData( "req_craft", "storagenetwork:stack_upgrade", { "crafting": 100, "smithing":100 });
+addData( "req_craft", "storagenetwork:speed_upgrade", { "crafting": 100, "smithing":100 });
+addData( "req_craft", "storagenetwork:inventory_remote", { "crafting": 100, "smithing":100 });
+addData( "req_craft", "storagenetwork:crafting_remote", { "crafting": 100, "smithing":100 });
+addData( "req_craft", "storagenetwork:picker_remote", { "crafting": 100, "smithing":100 });
+addData( "req_craft", "storagenetwork:collector_remote", { "crafting": 100, "smithing":100 });
+addData( "req_craft", "storagenetwork:builder_remote", { "crafting": 100, "smithing":100 });
+}
 function addData2( dataKey, regKey, entryKey, entryObject, probe )
 {
 	if( probe != null )
