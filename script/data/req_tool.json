@@ -1,0 +1,106 @@
+{
+	"minecraft:netherite_pickaxe":
+	{
+		"mining": 60
+	},
+	"minecraft:netherite_shovel":
+	{
+		"excavation": 60
+	},
+	"minecraft:netherite_axe":
+	{
+		"woodcutting": 60
+	},
+	"minecraft:netherite_hoe":
+	{
+		"farming": 40
+	},
+	"minecraft:diamond_pickaxe":
+	{
+		"mining": 40
+	},
+	"minecraft:diamond_shovel":
+	{
+		"excavation": 40
+	},
+	"minecraft:diamond_axe":
+	{
+		"woodcutting": 40
+	},
+	"minecraft:diamond_hoe":
+	{
+		"farming": 30
+	},
+	"minecraft:golden_pickaxe":
+	{
+		"mining": 30
+	},
+	"minecraft:golden_shovel":
+	{
+		"excavation": 30
+	},
+	"minecraft:golden_axe":
+	{
+		"woodcutting": 30
+	},
+	"minecraft:golden_hoe":
+	{
+		"farming": 50
+	},
+	"minecraft:iron_pickaxe":
+	{
+		"mining": 20
+	},
+	"minecraft:iron_shovel":
+	{
+		"excavation": 20
+	},
+	"minecraft:iron_axe":
+	{
+		"woodcutting": 20
+	},
+	"minecraft:iron_hoe":
+	{
+		"farming": 20
+	},
+	"minecraft:stone_pickaxe":
+	{
+		"mining": 10
+	},
+	"minecraft:stone_shovel":
+	{
+		"excavation": 10
+	},
+	"minecraft:stone_axe":
+	{
+		"woodcutting": 10
+	},
+	"minecraft:stone_hoe":
+	{
+		"farming": 10
+	},
+	"minecraft:wooden_pickaxe":
+	{
+		"mining": 1
+	},
+	"minecraft:wooden_shovel":
+	{
+		"excavation": 1
+	},
+	"minecraft:wooden_axe":
+	{
+		"woodcutting": 1
+	},
+	"minecraft:wooden_hoe":
+	{
+		"farming": 1
+	},
+	"create:deforester":
+	{
+		"woodcutting": 92
+	},
+	"mininggadgets:mininggadget":
+	{
+		"mining": 80
+	}
+}

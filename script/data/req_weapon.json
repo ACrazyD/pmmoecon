@@ -1,0 +1,118 @@
+{
+	"minecraft:crossbow":
+	{
+		"archery": 10
+	},
+	"minecraft:netherite_pickaxe":
+	{
+		"combat": 60
+	},
+	"minecraft:netherite_shovel":
+	{
+		"combat": 60
+	},
+	"minecraft:netherite_axe":
+	{
+		"combat": 65
+	},
+	"minecraft:netherite_sword":
+	{
+		"combat": 60
+	},
+	"minecraft:diamond_pickaxe":
+	{
+		"combat": 40
+	},
+	"minecraft:diamond_shovel":
+	{
+		"combat": 40
+	},
+	"minecraft:diamond_axe":
+	{
+		"combat": 45
+	},
+	"minecraft:diamond_sword":
+	{
+		"combat": 40
+	},
+	"minecraft:golden_pickaxe":
+	{
+		"combat": 30
+	},
+	"minecraft:golden_shovel":
+	{
+		"combat": 30
+	},
+	"minecraft:golden_axe":
+	{
+		"combat": 35
+	},
+	"minecraft:golden_sword":
+	{
+		"combat": 30
+	},
+	"minecraft:iron_pickaxe":
+	{
+		"combat": 20
+	},
+	"minecraft:iron_shovel":
+	{
+		"combat": 20
+	},
+	"minecraft:iron_axe":
+	{
+		"combat": 25
+	},
+	"minecraft:iron_sword":
+	{
+		"combat": 20
+	},
+	"minecraft:stone_pickaxe":
+	{
+		"combat": 10
+	},
+	"minecraft:stone_shovel":
+	{
+		"combat": 10
+	},
+	"minecraft:stone_axe":
+	{
+		"combat": 15
+	},
+	"minecraft:stone_sword":
+	{
+		"combat": 10
+	},
+	"minecraft:wooden_pickaxe":
+	{
+		"combat": 1
+	},
+	"minecraft:wooden_shovel":
+	{
+		"combat": 1
+	},
+	"minecraft:wooden_axe":
+	{
+		"combat": 1
+	},
+	"minecraft:wooden_sword":
+	{
+		"combat": 1
+	},
+	"minecolonies:chiefsword":
+	{
+		"combat": 35
+	},
+	"minecolonies:iron_scimitar":
+	{
+		"combat": 15
+	},
+	"minecolonies:pharaoscepter":
+	{
+		"archery": 75
+	},
+	"create:deforester":
+	{
+		"combat": 75
+	}
+}

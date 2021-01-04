@@ -1,0 +1,414 @@
+{
+	"minecraft:oak_sapling":
+	{
+		"farming": 10
+	},
+	"minecraft:birch_sapling":
+	{
+		"farming": 20
+	},
+	"minecraft:spruce_sapling":
+	{
+		"farming": 15
+	},
+	"minecraft:jungle_sapling":
+	{
+		"farming": 25
+	},
+	"minecraft:dark_oak_sapling":
+	{
+		"farming": 15
+	},
+	"minecraft:acacia_sapling":
+	{
+		"farming": 30
+	},
+	"minecraft:sugar_cane":
+	{
+		"farming": 5
+	},
+	"minecraft:cactus":
+	{
+		"farming": 6
+	},
+	"minecraft:bamboo":
+	{
+		"farming": 1.2
+	},
+	"minecraft:bamboo_sapling":
+	{
+		"farming": 1.2
+	},
+	"minecraft:kelp":
+	{
+		"farming": 2
+	},
+	"minecraft:kelp_plant":
+	{
+		"farming": 2
+	},
+	"minecraft:sea_pickle":
+	{
+		"farming": 4
+	},
+	"minecraft:wheat":
+	{
+		"farming": 9
+	},
+	"minecraft:wheat_seeds":
+	{
+		"farming": 9
+	},
+	"minecraft:beetroot":
+	{
+		"farming": 12
+	},
+	"minecraft:beetroots":
+	{
+		"farming": 12
+	},
+	"minecraft:carrot":
+	{
+		"farming": 8
+	},
+	"minecraft:carrots":
+	{
+		"farming": 8
+	},
+	"minecraft:potato":
+	{
+		"farming": 6.6
+	},
+	"minecraft:potatoes":
+	{
+		"farming": 6.6
+	},
+	"minecraft:cocoa":
+	{
+		"farming": 17
+	},
+	"minecraft:nether_wart":
+	{
+		"farming": 11
+	},
+	"pamhc2crops:sesameseedsitem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:mustardseedsitem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:agaveseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:amaranthseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:arrowrootseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:artichokeseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:asparagusseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:barleyseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:beanseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:bellpepperseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:blackberryseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:blueberryseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:broccoliseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:brusselsproutseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:cabbageseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:cactusfruitseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:candleberryseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:cantaloupeseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:cassavaseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:cauliflowerseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:celeryseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:chickpeaseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:chilipepperseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:coffeebeanseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:cornseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:cottonseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:cranberryseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:cucumberseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:eggplantseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:elderberryseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:flaxseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:garlicseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:gingerseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:grapeseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:greengrapeseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:huckleberryseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:jicamaseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:juniperberryseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:juteseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:kaleseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:kenafseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:kiwiseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:kohlrabiseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:leekseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:lentilseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:lettuceseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:milletseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:mulberryseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:mustardseedsseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:oatsseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:okraseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:onionseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:parsnipseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:peanutseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:peasseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:pineappleseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:quinoaseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:radishseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:raspberryseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:rhubarbseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:riceseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:rutabagaseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:ryeseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:scallionseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:sesameseedsseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:sisalseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:soybeanseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:spiceleafseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:spinachseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:strawberryseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:sweetpotatoseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:taroseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:tealeafseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:tomatilloseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:tomatoseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:turnipseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:waterchestnutseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:whitemushroomseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:wintersquashseeditem":
+	{
+		"farming": 9
+	},
+	"pamhc2crops:zucchiniseeditem":
+	{
+		"farming": 9
+	}
+}
