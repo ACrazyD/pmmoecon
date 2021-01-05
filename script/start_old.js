@@ -3767,7 +3767,7 @@ addData( "req_weapon", "spartanweaponry:battleaxe_copper",  {"combat": 10, "endu
 addData( "req_weapon", "spartanweaponry:greatsword_copper",  {"combat": 10, "endurance": 10});
 addData( "req_weapon", "spartanweaponry:longsword_copper",  {"combat": 10, "endurance": 10});
 addData( "req_weapon", "spartanshields:shield_tower_copper",  {"combat": 10, "endurance": 10});
-addData( "req_weapon", "spartanshields:hammer_copper",  {"combat": 10, "endurance": 10});
+addData( "req_weapon", "spartanweaponry:hammer_copper",  {"combat": 10, "endurance": 10});
 addData( "req_weapon", "spartanweaponry:saber_copper",  {"combat": 10, "swimming": 10});
 addData( "req_weapon", "spartanweaponry:katana_copper",  {"combat": 10, "endurance": 10, "smithing": 10});
 addData( "req_weapon", "spartanshields:shield_basic_copper",  {"combat": 10});
