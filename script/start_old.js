@@ -3727,6 +3727,31 @@ addData( "req_weapon", "spartanweaponry:greatsword_stone", {"combat": 3, "endura
 addData( "req_weapon", "spartanshields:shield_tower_stone", {"combat": 3, "endurance": 3});
 addData( "req_weapon", "spartanweaponry:saber_stone", {"combat": 3, "swimming": 3});
 //iron
+addData( "req_weapon", "spartanweaponry:glaive_iron",  {"combat": 15, "agility": 15, "endurance": 15});
+addData( "req_weapon", "spartanweaponry:quarterstaff_iron",  {"combat": 15, "agility": 15, "endurance": 15});
+addData( "req_weapon", "spartanweaponry:longbow_iron",  {"combat": 15, "archery": 15});
+addData( "req_weapon", "spartanweaponry:heavy_crossbow_iron",  {"combat": 15, "archery": 15, "endurance: 15});
+addData( "req_weapon", "spartanweaponry:arrow_iron",  {"combat": 15, "endurance": 15});
+addData( "req_weapon", "spartanshields:shield_tower_iron",  {"combat": 15, "endurance": 15});
+addData( "req_weapon", "spartanweaponry:hammer_iron",  {"combat": 15, "endurance": 15});
+addData( "req_weapon", "spartanweaponry:battleaxe_iron",  {"combat": 15, "endurance": 15});
+addData( "req_weapon", "spartanweaponry:longsword_iron",  {"combat": 15, "endurance": 15});
+addData( "req_weapon", "spartanweaponry:greatsword_iron",  {"combat": 15, "endurance": 15});
+addData( "req_weapon", "spartanweaponry:saber_iron",  {"combat": 15, "swimming": 15});
+addData( "req_weapon", "spartanweaponry:katana_iron",  {"combat": 15, "agility": 15, "smithing": 15});
+addData( "req_weapon", "spartanshields:shield_basic_iron",  {"combat": 15});
+addData( "req_weapon", "spartanweaponry:boomerang_iron",  {"combat": 15});
+addData( "req_weapon", "spartanweaponry:flanged_mace_iron",  {"combat": 15});
+addData( "req_weapon", "spartanweaponry:throwing_knife_iron",  {"combat": 15, "agility": 15});
+addData( "req_weapon", "spartanweaponry:tomahawk_iron",  {"combat": 15, "agility": 15});
+addData( "req_weapon", "spartanweaponry:dagger_iron",  {"combat": 15, "agility": 15});
+addData( "req_weapon", "spartanweaponry:rapier_iron",  {"combat": 15, "agility": 15});
+addData( "req_weapon", "spartanweaponry:javelin_iron",  {"combat": 15, "agility": 15, "endurance": 15});
+addData( "req_weapon", "spartanweaponry:warhammer_iron",  {"combat": 15, "agility": 15, "endurance": 15});
+addData( "req_weapon", "spartanweaponry:spear_iron",  {"combat": 15, "agility": 15, "endurance": 15});
+addData( "req_weapon", "spartanweaponry:halberd_iron",  {"combat": 15, "agility": 15, "endurance": 15});
+addData( "req_weapon", "spartanweaponry:pike_iron",  {"combat": 15, "agility": 15, "endurance": 15});
+addData( "req_weapon", "spartanweaponry:lance_iron",  {"combat": 15, "agility": 15, "endurance": 15});
 //gold
 //diamond
 //netherite
