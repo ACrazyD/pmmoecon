@@ -187,7 +187,7 @@
 		"combat": 1,
 		"archery": 1
 	},
-	"spartanweaponry:shield_basic_stone":
+	"spartanshields:shield_basic_stone":
 	{
 		"combat": 3
 	},
@@ -293,7 +293,7 @@
 		"combat": 3,
 		"endurance": 3
 	},
-	"spartanweaponry:shield_tower_stone":
+	"spartanshields:shield_tower_stone":
 	{
 		"combat": 3,
 		"endurance": 3
