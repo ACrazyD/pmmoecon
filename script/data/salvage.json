@@ -1964,6 +1964,27 @@
 			"levelReq": 1
 		}
 	},
+	"minecraft:spectral_arrow":
+	{
+		"minecraft:glowstone_dust":
+		{
+			"salvageMax": 4,
+			"baseChance": 25,
+			"chancePerLevel": 1.5,
+			"maxChance": 75,
+			"xpPerItem": 5,
+			"levelReq": 1
+		},
+		"minecraft:arrow":
+		{
+			"salvageMax": 1,
+			"baseChance": 35,
+			"chancePerLevel": 2,
+			"maxChance": 80,
+			"xpPerItem": 1.5,
+			"levelReq": 5
+		}
+	},
 	"create:dolomite":
 	{
 		"minecraft:cobblestone":
