@@ -1,6 +1,7 @@
 # PMMO Addon Script (Made for LoungeCraft Econ)
 We are loungecraft and this is our PMMO Script we have removed mods we dont use, and added a lot of mods we are useing for pmmo - These are all free to use without needing to ask me first, Im posting this so i dont loose it, and so others can use it.
 
+All the addons are located in the start_old.js script located in the Scripts folder
 
  Current Addons
  - Create (Tweaked)
