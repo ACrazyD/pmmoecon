@@ -3678,6 +3678,14 @@ addData( "req_craft", "storagenetwork:builder_remote", { "crafting": 100, "smith
 }
 //Spartan Weapons/Shields Addon
 {
+addData( "req_tool", "spartanweaponry:boomerang_wood" { "combat" : 1 } );
+addData( "req_tool", "spartanweaponry:flanged_mace_wood" { "combat" : 1 } );
+addData( "req_tool", "spartanweaponry:spartanweaponry:club_wood" { "combat" : 1 } );
+addData( "req_tool", "spartanweaponry:dagger_wood" { "combat": 1, "agility": 1 } );
+addData( "req_tool", "spartanweaponry:tomahawk_wood" { "combat": 1, "agility": 1 } );
+addData( "req_tool", "spartanweaponry:throwing_knife_wood" { "combat": 1, "agility": 1 } );
+addData( "req_tool", "spartanweaponry:rapier_wood" { "combat": 1, "agility": 1 } );
+
 
 }
 function addData2( dataKey, regKey, entryKey, entryObject, probe )
