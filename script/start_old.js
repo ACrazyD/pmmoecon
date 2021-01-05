@@ -3676,6 +3676,10 @@ addData( "req_craft", "storagenetwork:picker_remote", { "crafting": 100, "smithi
 addData( "req_craft", "storagenetwork:collector_remote", { "crafting": 100, "smithing":100 });
 addData( "req_craft", "storagenetwork:builder_remote", { "crafting": 100, "smithing":100 });
 }
+//Spartan Weapons/Sheilds Addon
+{
+
+}
 function addData2( dataKey, regKey, entryKey, entryObject, probe )
 {
 	if( probe != null )
