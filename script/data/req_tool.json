@@ -177,6 +177,16 @@
 		"agility": 1,
 		"endurance": 1
 	},
+	"spartanweaponry:arrow_wood":
+	{
+		"combat": 1,
+		"archery": 1
+	},
+	"spartanweaponry:longbow_wood":
+	{
+		"combat": 1,
+		"archery": 1
+	},
 	"spartan_weaponry:stone_lance":
 	{
 		"combat": 3,
