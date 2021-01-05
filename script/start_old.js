@@ -3692,8 +3692,6 @@ addData( "req_tool", "spartanweaponry:spear_wood" { "combat": 1, "agility": 1, "
 addData( "req_tool", "spartanweaponry:warhammer_wood" { "combat": 1, "agility": 1, "endurance": 1 } );
 addData( "req_tool", "spartanweaponry:javelin_wood" { "combat": 1, "agility": 1, "endurance": 1 } );
 addData( "req_tool", "spartanweaponry:lance_wood" { "combat": 1, "agility": 1, "endurance": 1 } );
-
-
 }
 function addData2( dataKey, regKey, entryKey, entryObject, probe )
 {
