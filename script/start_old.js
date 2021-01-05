@@ -3698,7 +3698,7 @@ addData( "req_tool", "spartan_weaponry:stone_quarterstaff", {"combat": 3, "agili
 addData( "req_tool", "spartan_weaponry:stone_javelin", {"combat": 3, "agility": 3, "endurance": 3});
 addData( "req_tool", "spartan_weaponry:stone_battleaxe", {"combat": 3, "endurance": 3});
 addData( "req_tool", "spartan_weaponry:stone_battle_hammer", {"combat": 3, "endurance": 3});
-addData( "req_tool", "spartan_weaponry:stone_longsword", {"combat": 3,, "endurance": 3});
+addData( "req_tool", "spartan_weaponry:stone_longsword", {"combat": 3, "endurance": 3});
 addData( "req_tool", "spartan_weaponry:stone_greatsword", {"combat": 3, "endurance": 3});
 addData( "req_tool", "spartan_weaponry:stone_tower_shield", {"combat": 3, "endurance": 3});
 addData( "req_tool", "spartan_weaponry:stone_saber", {"combat": 3, "swimming": 3});

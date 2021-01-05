@@ -102,5 +102,195 @@
 	"mininggadgets:mininggadget":
 	{
 		"mining": 80
+	},
+	"spartanweaponry:boomerang_wood":
+	{
+		"combat": 1
+	},
+	"spartanweaponry:flanged_mace_wood":
+	{
+		"combat": 1
+	},
+	"spartanweaponry:spartanweaponry:club_wood":
+	{
+		"combat": 1
+	},
+	"spartanweaponry:dagger_wood":
+	{
+		"combat": 1,
+		"agility": 1
+	},
+	"spartanweaponry:tomahawk_wood":
+	{
+		"combat": 1,
+		"agility": 1
+	},
+	"spartanweaponry:throwing_knife_wood":
+	{
+		"combat": 1,
+		"agility": 1
+	},
+	"spartanweaponry:pike_wood":
+	{
+		"combat": 1,
+		"agility": 1
+	},
+	"spartanweaponry:quarterstaff_wood":
+	{
+		"combat": 1,
+		"agility": 1,
+		"endurance": 1
+	},
+	"spartanweaponry:glaive_wood":
+	{
+		"combat": 1,
+		"agility": 1,
+		"endurance": 1
+	},
+	"spartanweaponry:halberd_wood":
+	{
+		"combat": 1,
+		"agility": 1,
+		"endurance": 1
+	},
+	"spartanweaponry:spear_wood":
+	{
+		"combat": 1,
+		"agility": 1,
+		"endurance": 1
+	},
+	"spartanweaponry:warhammer_wood":
+	{
+		"combat": 1,
+		"agility": 1,
+		"endurance": 1
+	},
+	"spartanweaponry:javelin_wood":
+	{
+		"combat": 1,
+		"agility": 1,
+		"endurance": 1
+	},
+	"spartanweaponry:lance_wood":
+	{
+		"combat": 1,
+		"agility": 1,
+		"endurance": 1
+	},
+	"spartan_weaponry:stone_lance":
+	{
+		"combat": 3,
+		"agility": 3,
+		"endurance": 3
+	},
+	"spartan_weaponry:stone_quarterstaff":
+	{
+		"combat": 3,
+		"agility": 3,
+		"endurance": 3
+	},
+	"spartan_weaponry:stone_javelin":
+	{
+		"combat": 3,
+		"agility": 3,
+		"endurance": 3
+	},
+	"spartan_weaponry:stone_battleaxe":
+	{
+		"combat": 3,
+		"endurance": 3
+	},
+	"spartan_weaponry:stone_battle_hammer":
+	{
+		"combat": 3,
+		"endurance": 3
+	},
+	"spartan_weaponry:stone_longsword":
+	{
+		"combat": 3,
+		"endurance": 3
+	},
+	"spartan_weaponry:stone_greatsword":
+	{
+		"combat": 3,
+		"endurance": 3
+	},
+	"spartan_weaponry:stone_tower_shield":
+	{
+		"combat": 3,
+		"endurance": 3
+	},
+	"spartan_weaponry:stone_saber":
+	{
+		"combat": 3,
+		"swimming": 3
+	},
+	"spartan_weaponry:stone_braced_shield":
+	{
+		"combat": 3
+	},
+	"spartan_weaponry:stone_boomerang":
+	{
+		"combat": 3
+	},
+	"spartan_weaponry:stone_flanged_mace":
+	{
+		"combat": 3
+	},
+	"spartan_weaponry:stone_rapier":
+	{
+		"combat": 3,
+		"agility": 3
+	},
+	"spartan_weaponry:stone_tomahawk":
+	{
+		"combat": 3,
+		"agility": 3
+	},
+	"spartan_weaponry:stone_throwing_knife":
+	{
+		"combat": 3,
+		"agility": 3
+	},
+	"spartan_weaponry:stone_dagger":
+	{
+		"combat": 3,
+		"agility": 3
+	},
+	"spartan_weaponry:stone_katana":
+	{
+		"combat": 3,
+		"agility": 3,
+		"endurance": 3
+	},
+	"spartan_weaponry:stone_warhammer":
+	{
+		"combat": 3,
+		"agility": 3,
+		"endurance": 3
+	},
+	"spartan_weaponry:stone_glaive":
+	{
+		"combat": 3,
+		"agility": 3,
+		"endurance": 3
+	},
+	"spartan_weaponry:stone_spear":
+	{
+		"combat": 3,
+		"agility": 3,
+		"endurance": 3
+	},
+	"spartan_weaponry:stone_pike":
+	{
+		"combat": 3,
+		"agility": 3,
+		"endurance": 3
+	},
+	"spartan_weaponry:stone_halberd":
+	{
+		"combat": 3,
+		"agility": 3,
+		"endurance": 3
 	}
 }
