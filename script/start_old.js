@@ -3695,28 +3695,28 @@ addData( "req_tool", "spartanweaponry:lance_wood", { "combat": 1, "agility": 1, 
 addData( "req_tool", "spartanweaponry:arrow_wood", { "combat": 1, "archery": 1 } );
 addData( "req_tool", "spartanweaponry:longbow_wood", { "combat": 1, "archery": 1 } );
 
-addData( "req_tool", "spartan_weaponry:stone_lance", {"combat": 3, "agility": 3, "endurance": 3});
-addData( "req_tool", "spartan_weaponry:stone_quarterstaff", {"combat": 3, "agility": 3, "endurance": 3});
-addData( "req_tool", "spartan_weaponry:stone_javelin", {"combat": 3, "agility": 3, "endurance": 3});
-addData( "req_tool", "spartan_weaponry:stone_battleaxe", {"combat": 3, "endurance": 3});
-addData( "req_tool", "spartan_weaponry:stone_battle_hammer", {"combat": 3, "endurance": 3});
-addData( "req_tool", "spartan_weaponry:stone_longsword", {"combat": 3, "endurance": 3});
-addData( "req_tool", "spartan_weaponry:stone_greatsword", {"combat": 3, "endurance": 3});
-addData( "req_tool", "spartan_weaponry:stone_tower_shield", {"combat": 3, "endurance": 3});
-addData( "req_tool", "spartan_weaponry:stone_saber", {"combat": 3, "swimming": 3});
-addData( "req_tool", "spartan_weaponry:stone_braced_shield", {"combat": 3});
-addData( "req_tool", "spartan_weaponry:stone_boomerang", {"combat": 3});
-addData( "req_tool", "spartan_weaponry:stone_flanged_mace", {"combat": 3});
-addData( "req_tool", "spartan_weaponry:stone_rapier", {"combat": 3, "agility": 3});
-addData( "req_tool", "spartan_weaponry:stone_tomahawk", {"combat": 3, "agility": 3});
-addData( "req_tool", "spartan_weaponry:stone_throwing_knife", {"combat": 3, "agility": 3});
-addData( "req_tool", "spartan_weaponry:stone_dagger", {"combat": 3, "agility": 3});
-addData( "req_tool", "spartan_weaponry:stone_katana", {"combat": 3, "agility": 3, "endurance": 3});
-addData( "req_tool", "spartan_weaponry:stone_warhammer", {"combat": 3, "agility": 3, "endurance": 3});
-addData( "req_tool", "spartan_weaponry:stone_glaive", {"combat": 3, "agility": 3, "endurance": 3});
-addData( "req_tool", "spartan_weaponry:stone_spear", {"combat": 3, "agility": 3, "endurance": 3});
-addData( "req_tool", "spartan_weaponry:stone_pike", {"combat": 3, "agility": 3, "endurance": 3});
-addData( "req_tool", "spartan_weaponry:stone_halberd", {"combat": 3, "agility": 3, "endurance": 3});
+addData( "req_tool", "spartanweaponry:shield_basic_stone", {"combat": 3});
+addData( "req_tool", "spartanweaponry:boomerang_stone", {"combat": 3});
+addData( "req_tool", "spartanweaponry:flanged_mace_stone", {"combat": 3});
+addData( "req_tool", "spartanweaponry:rapier_stone", {"combat": 3, "agility": 3});
+addData( "req_tool", "spartanweaponry:tomahawk_stone", {"combat": 3, "agility": 3});
+addData( "req_tool", "spartanweaponry:throwing_knife_stone", {"combat": 3, "agility": 3});
+addData( "req_tool", "spartanweaponry:dagger_stone", {"combat": 3, "agility": 3});
+addData( "req_tool", "spartanweaponry:katana_stone", {"combat": 3, "agility": 3, "endurance": 3});
+addData( "req_tool", "spartanweaponry:warhammer_stone", {"combat": 3, "agility": 3, "endurance": 3});
+addData( "req_tool", "spartanweaponry:glaive_stone", {"combat": 3, "agility": 3, "endurance": 3});
+addData( "req_tool", "spartanweaponry:spear_stone", {"combat": 3, "agility": 3, "endurance": 3});
+addData( "req_tool", "spartanweaponry:pike_stone", {"combat": 3, "agility": 3, "endurance": 3});
+addData( "req_tool", "spartanweaponry:halberd_stone", {"combat": 3, "agility": 3, "endurance": 3});
+addData( "req_tool", "spartanweaponry:lance_stone", {"combat": 3, "agility": 3, "endurance": 3});
+addData( "req_tool", "spartanweaponry:quarterstaff_stone", {"combat": 3, "agility": 3, "endurance": 3});
+addData( "req_tool", "spartanweaponry:javelin_stone", {"combat": 3, "agility": 3, "endurance": 3});
+addData( "req_tool", "spartanweaponry:battleaxe_stone", {"combat": 3, "endurance": 3});
+addData( "req_tool", "spartanweaponry:hammer_stone", {"combat": 3, "endurance": 3});
+addData( "req_tool", "spartanweaponry:longsword_stone", {"combat": 3, "endurance": 3});
+addData( "req_tool", "spartanweaponry:greatsword_stone", {"combat": 3, "endurance": 3});
+addData( "req_tool", "spartanweaponry:shield_tower_stone", {"combat": 3, "endurance": 3});
+addData( "req_tool", "spartanweaponry:saber_stone", {"combat": 3, "swimming": 3});
 }
 function addData2( dataKey, regKey, entryKey, entryObject, probe )
 {
