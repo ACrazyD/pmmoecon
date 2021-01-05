@@ -99,6 +99,22 @@
 	{
 		"woodcutting": 92
 	},
+	"byg:pendorite_pickaxe":
+	{
+		"mining": 80
+	},
+	"byg:pendorite_axe":
+	{
+		"woodcutting": 80
+	},
+	"byg:pendorite_shovel":
+	{
+		"excavation": 80
+	},
+	"byg:pendorite_hoe":
+	{
+		"farming": 80
+	},
 	"mininggadgets:mininggadget":
 	{
 		"mining": 80

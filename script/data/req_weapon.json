@@ -111,6 +111,30 @@
 	{
 		"combat": 75
 	},
+	"byg:pendorite_sword":
+	{
+		"combat": 60
+	},
+	"byg:pendorite_hoe":
+	{
+		"combat": 60
+	},
+	"byg:pendorite_shovel":
+	{
+		"combat": 60
+	},
+	"byg:pendorite_pickaxe":
+	{
+		"combat": 60
+	},
+	"byg:pendorite_axe":
+	{
+		"combat": 60
+	},
+	"byg:pendorite_battleaxe":
+	{
+		"combat": 60
+	},
 	"spartanweaponry:boomerang_wood":
 	{
 		"combat": 1
@@ -489,6 +513,133 @@
 		"combat": 15,
 		"agility": 15,
 		"endurance": 15
+	},
+	"spartanshields:shield_basic_netherite":
+	{
+		"combat": 60
+	},
+	"spartanweaponry:boomerang_netherite":
+	{
+		"combat": 60
+	},
+	"spartanweaponry:flanged_mace_netherite":
+	{
+		"combat": 60
+	},
+	"spartanweaponry:throwing_knife_netherite":
+	{
+		"combat": 60,
+		"agility": 60
+	},
+	"spartanweaponry:tomahawk_netherite":
+	{
+		"combat": 60,
+		"agility": 60
+	},
+	"spartanweaponry:dagger_netherite":
+	{
+		"combat": 60,
+		"agility": 60
+	},
+	"spartanweaponry:rapier_netherite":
+	{
+		"combat": 60,
+		"agility": 60
+	},
+	"spartanweaponry:spear_netherite":
+	{
+		"combat": 60,
+		"agility": 60,
+		"endurance": 60
+	},
+	"spartanweaponry:pike_netherite":
+	{
+		"combat": 60,
+		"agility": 60,
+		"endurance": 60
+	},
+	"spartanweaponry:glaive_netherite":
+	{
+		"combat": 60,
+		"agility": 60,
+		"endurance": 60
+	},
+	"spartanweaponry:warhammer_netherite":
+	{
+		"combat": 60,
+		"agility": 60,
+		"endurance": 60
+	},
+	"spartanweaponry:halberd_netherite":
+	{
+		"combat": 60,
+		"agility": 60,
+		"endurance": 60
+	},
+	"spartanweaponry:quarterstaff_netherite":
+	{
+		"combat": 60,
+		"agility": 60,
+		"endurance": 60
+	},
+	"spartanweaponry:javelin_netherite":
+	{
+		"combat": 60,
+		"agility": 60,
+		"endurance": 60
+	},
+	"spartanweaponry:lance_netherite":
+	{
+		"combat": 60,
+		"agility": 60,
+		"endurance": 60
+	},
+	"spartanweaponry:longbow_netherite":
+	{
+		"combat": 60,
+		"archery": 60
+	},
+	"spartanweaponry:heavy_crossbow_netherite":
+	{
+		"combat": 60,
+		"archery": 60,
+		"endurance": 60
+	},
+	"spartanshields:shield_tower_netherite":
+	{
+		"combat": 60,
+		"endurance": 60
+	},
+	"spartanweaponry:greatsword_netherite":
+	{
+		"combat": 60,
+		"endurance": 60
+	},
+	"spartanweaponry:longsword_netherite":
+	{
+		"combat": 60,
+		"endurance": 60
+	},
+	"spartanweaponry:battleaxe_netherite":
+	{
+		"combat": 60,
+		"endurance": 60
+	},
+	"spartanweaponry:hammer_netherite":
+	{
+		"combat": 60,
+		"endurance": 60
+	},
+	"spartanweaponry:saber_netherite":
+	{
+		"combat": 60,
+		"swimming": 60
+	},
+	"spartanweaponry:katana_netherite":
+	{
+		"combat": 60,
+		"endurance": 60,
+		"smithing": 60
 	},
 	"spartanweaponry:pike_copper":
 	{
