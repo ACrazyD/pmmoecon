@@ -2856,6 +2856,30 @@ addData( "xp_multiplier_dimension", "all_dimensions",									{ "engineering": 1
 addData( "xp_bonus_dimension", "all_dimensions",										{  } );
 addData( "xp_bonus_dimension", "minecraft:the_end",										{ "flying": 50, "combat": 20, "archery": 50, "endurance": 20 } );
 addData( "xp_bonus_dimension", "minecraft:the_nether",									{ "combat": 25, "archery": 25, "endurance": 25, "flying": 250, "farming": -25 } );
+//Loungecraft Little Things
+{
+	addData2( "salvage", "minecraft:spectral_arrow", "minecraft:glowstone_dust",
+	{
+		"salvageMax": 4,
+		"baseChance": 25,
+		"chancePerLevel": 1.5,
+		"maxChance": 75,
+		"xpPerItem": 5,
+		"levelReq": 1
+	} );
+	addData2( "salvage", "minecraft:spectral_arrow", "minecraft:arrow",
+	{
+		"salvageMax": 1,
+		"baseChance": 35,
+		"chancePerLevel": 2,
+		"maxChance": 80,
+		"xpPerItem": 1.5,
+		"levelReq": 5
+	} );
+}
+
+
+//MineColoies Addon
 {
 addData( "req_weapon", "minecolonies:chiefsword",										{ "combat": 35 } );
 addData( "req_weapon", "minecolonies:iron_scimitar",									{ "combat": 15 } );
