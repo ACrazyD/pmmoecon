@@ -204,7 +204,7 @@
 	"spartanweaponry:heavy_crossbow_wood":
 	{
 		"combat": 1,
-		"archery": 5,
+		"archery": 1,
 		"endurance": 1
 	},
 	"minecraft:shield":
@@ -357,5 +357,137 @@
 	{
 		"combat": 3,
 		"swimming": 3
+	},
+	"spartanweaponry:glaive_iron":
+	{
+		"combat": 15,
+		"agility": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:quarterstaff_iron":
+	{
+		"combat": 15,
+		"agility": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:longbow_iron":
+	{
+		"combat": 15,
+		"archery": 15
+	},
+	"spartanweaponry:heavy_crossbow_iron":
+	{
+		"combat": 15,
+		"archery": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:arrow_iron":
+	{
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanshields:shield_tower_iron":
+	{
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:hammer_iron":
+	{
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:battleaxe_iron":
+	{
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:longsword_iron":
+	{
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:greatsword_iron":
+	{
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:saber_iron":
+	{
+		"combat": 15,
+		"swimming": 15
+	},
+	"spartanweaponry:katana_iron":
+	{
+		"combat": 15,
+		"agility": 15,
+		"smithing": 15
+	},
+	"spartanshields:shield_basic_iron":
+	{
+		"combat": 15
+	},
+	"spartanweaponry:boomerang_iron":
+	{
+		"combat": 15
+	},
+	"spartanweaponry:flanged_mace_iron":
+	{
+		"combat": 15
+	},
+	"spartanweaponry:throwing_knife_iron":
+	{
+		"combat": 15,
+		"agility": 15
+	},
+	"spartanweaponry:tomahawk_iron":
+	{
+		"combat": 15,
+		"agility": 15
+	},
+	"spartanweaponry:dagger_iron":
+	{
+		"combat": 15,
+		"agility": 15
+	},
+	"spartanweaponry:rapier_iron":
+	{
+		"combat": 15,
+		"agility": 15
+	},
+	"spartanweaponry:javelin_iron":
+	{
+		"combat": 15,
+		"agility": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:warhammer_iron":
+	{
+		"combat": 15,
+		"agility": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:spear_iron":
+	{
+		"combat": 15,
+		"agility": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:halberd_iron":
+	{
+		"combat": 15,
+		"agility": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:pike_iron":
+	{
+		"combat": 15,
+		"agility": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:lance_iron":
+	{
+		"combat": 15,
+		"agility": 15,
+		"endurance": 15
 	}
 }
