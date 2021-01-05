@@ -3692,6 +3692,8 @@ addData( "req_tool", "spartanweaponry:spear_wood", { "combat": 1, "agility": 1, 
 addData( "req_tool", "spartanweaponry:warhammer_wood", { "combat": 1, "agility": 1, "endurance": 1 } );
 addData( "req_tool", "spartanweaponry:javelin_wood", { "combat": 1, "agility": 1, "endurance": 1 } );
 addData( "req_tool", "spartanweaponry:lance_wood", { "combat": 1, "agility": 1, "endurance": 1 } );
+addData( "req_tool", "spartanweaponry:arrow_wood", { "combat": 1, "archery": 1 } );
+addData( "req_tool", "spartanweaponry:longbow_wood", { "combat": 1, "archery": 1 } );
 
 addData( "req_tool", "spartan_weaponry:stone_lance", {"combat": 3, "agility": 3, "endurance": 3});
 addData( "req_tool", "spartan_weaponry:stone_quarterstaff", {"combat": 3, "agility": 3, "endurance": 3});
