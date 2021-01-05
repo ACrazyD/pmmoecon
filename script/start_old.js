@@ -3677,6 +3677,7 @@ addData( "req_craft", "storagenetwork:builder_remote", { "crafting": 100, "smith
 }
 //Spartan Weapons/Shields Addon
 {
+//wood
 addData( "req_weapon", "spartanweaponry:boomerang_wood", { "combat" : 1 } );
 addData( "req_weapon", "spartanweaponry:flanged_mace_wood", { "combat" : 1 } );
 addData( "req_weapon", "spartanweaponry:spartanweaponry:club_wood", { "combat" : 1 } );
@@ -3695,8 +3696,14 @@ addData( "req_weapon", "spartanweaponry:arrow_wood", { "combat": 1, "archery": 1
 addData( "req_weapon", "spartanweaponry:longbow_wood", { "combat": 1, "archery": 1 } );
 addData( "req_weapon", "minecraft:crossbow", { "combat": 1, "archery": 1, "endurance": 1 } );
 addData( "req_weapon", "spartanweaponry:heavy_crossbow_wood", { "combat": 1, "archery": 5, "endurance": 1 } );
-
-
+addData( "req_weapon", "minecraft:shield", { "combat": 1, "endurance": 1 } );
+addData( "req_weapon", "spartanweaponry:longsword_wood", { "combat": 1, "endurance": 1 } );
+addData( "req_weapon", "spartanweaponry:battleaxe_wood", { "combat": 1, "endurance": 1 } );
+addData( "req_weapon", "spartanweaponry:greatsword_wood", { "combat": 1, "endurance": 1 } );
+addData( "req_weapon", "spartanweaponry:hammer_wood", { "combat": 1, "endurance": 1 } );
+addData( "req_weapon", "spartanweaponry:saber_wood", { "combat": 1, "swimming": 1 } );
+addData( "req_weapon", "spartanweaponry:katana_wood", { "combat": 1, "smithing": 1 } );
+//stone
 addData( "req_weapon", "spartanshields:shield_basic_stone", {"combat": 3});
 addData( "req_weapon", "spartanweaponry:boomerang_stone", {"combat": 3});
 addData( "req_weapon", "spartanweaponry:flanged_mace_stone", {"combat": 3});
@@ -3719,6 +3726,11 @@ addData( "req_weapon", "spartanweaponry:longsword_stone", {"combat": 3, "enduran
 addData( "req_weapon", "spartanweaponry:greatsword_stone", {"combat": 3, "endurance": 3});
 addData( "req_weapon", "spartanshields:shield_tower_stone", {"combat": 3, "endurance": 3});
 addData( "req_weapon", "spartanweaponry:saber_stone", {"combat": 3, "swimming": 3});
+//iron
+//gold
+//diamond
+//netherite
+//copper
 }
 function addData2( dataKey, regKey, entryKey, entryObject, probe )
 {
