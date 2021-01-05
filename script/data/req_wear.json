@@ -140,5 +140,345 @@
 	"create:goggles":
 	{
 		"crafting": 25
+	},
+	"byg:ametrine_helmet":
+	{
+		"endurance": 75
+	},
+	"byg:ametrine_chestplate":
+	{
+		"endurance": 75
+	},
+	"byg:ametrine_leggings":
+	{
+		"endurance": 75
+	},
+	"byg:ametrine_boots":
+	{
+		"endurance": 75
+	},
+	"minecraft:gold_helmet":
+	{
+		"endurance": 15
+	},
+	"gemsnjewels:aquamarine_helmet":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:aquamarine_chestplate":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:aquamarine_leggings":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:aquamarine_boots":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:zircon_helmet":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:zircon_chestplate":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:zircon_leggings":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:zircon_boots":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:peridot_helmet":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:peridot_chestplate":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:peridot_leggings":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:peridot_boots":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:tanzanite_helmet":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:tanzanite_chestplate":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:tanzanite_leggings":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:tanzanite_boots":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:tourmaline_helmet":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:tourmaline_chestplate":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:tourmaline_leggings":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:tourmaline_boots":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:black_opal_helmet":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:black_opal_chestplate":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:black_opal_leggings":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:black_opal_boots":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:iolite_helmet":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:iolite_chestplate":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:iolite_leggings":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:iolite_boots":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:kunzite_helmet":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:kunzite_chestplate":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:kunzite_leggings":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:kunzite_boots":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:ametrine_helmet":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:ametrine_chestplate":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:ametrine_leggings":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:ametrine_boots":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:morganite_helmet":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:morganite_chestplate":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:morganite_leggings":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:morganite_boots":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:citrine_helmet":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:citrine_chestplate":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:citrine_leggings":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:citrine_boots":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:emerald_helmet":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:emerald_chestplate":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:emerald_leggings":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:emerald_boots":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:amethyst_helmet":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:amethyst_chestplate":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:amethyst_leggings":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:amethyst_boots":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:opal_helmet":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:opal_chestplate":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:opal_leggings":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:opal_boots":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:garnet_helmet":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:garnet_chestplate":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:garnet_leggings":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:garnet_boots":
+	{
+		"endurance": 35
+	},
+	"gemsnjewels:topaz_helmet":
+	{
+		"endurance": 40
+	},
+	"gemsnjewels:topaz_chestplate":
+	{
+		"endurance": 40
+	},
+	"gemsnjewels:topaz_leggings":
+	{
+		"endurance": 40
+	},
+	"gemsnjewels:topaz_boots":
+	{
+		"endurance": 40
+	},
+	"gemsnjewels:alexandrite_helmet":
+	{
+		"endurance": 40
+	},
+	"gemsnjewels:alexandrite_chestplate":
+	{
+		"endurance": 40
+	},
+	"gemsnjewels:alexandrite_leggings":
+	{
+		"endurance": 40
+	},
+	"gemsnjewels:alexandrite_boots":
+	{
+		"endurance": 40
+	},
+	"gemsnjewels:ruby_helmet":
+	{
+		"endurance": 40
+	},
+	"gemsnjewels:ruby_chestplate":
+	{
+		"endurance": 40
+	},
+	"gemsnjewels:ruby_leggings":
+	{
+		"endurance": 40
+	},
+	"gemsnjewels:ruby_boots":
+	{
+		"endurance": 40
+	},
+	"gemsnjewels:sapphire_helmet":
+	{
+		"endurance": 40
+	},
+	"gemsnjewels:sapphire_chestplate":
+	{
+		"endurance": 40
+	},
+	"gemsnjewels:sapphire_leggings":
+	{
+		"endurance": 40
+	},
+	"gemsnjewels:sapphire_boots":
+	{
+		"endurance": 40
+	},
+	"gemsnjewels:spinel_helmet":
+	{
+		"endurance": 40
+	},
+	"gemsnjewels:spinel_chestplate":
+	{
+		"endurance": 40
+	},
+	"gemsnjewels:spinel_leggings":
+	{
+		"endurance": 40
+	},
+	"gemsnjewels:spinel_boots":
+	{
+		"endurance": 40
 	}
 }

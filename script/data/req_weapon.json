@@ -704,6 +704,11 @@
 		"combat": 40,
 		"swimming": 40
 	},
+	"minecraft:trident":
+	{
+		"combat": 40,
+		"swimming": 40
+	},
 	"spartanweaponry:katana_diamond":
 	{
 		"combat": 40,
