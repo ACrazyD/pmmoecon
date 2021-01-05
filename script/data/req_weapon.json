@@ -514,6 +514,138 @@
 		"agility": 15,
 		"endurance": 15
 	},
+	"spartanweaponry:glaive_gold":
+	{
+		"combat": 30,
+		"agility": 30,
+		"endurance": 30
+	},
+	"spartanweaponry:quarterstaff_gold":
+	{
+		"combat": 30,
+		"agility": 30,
+		"endurance": 30
+	},
+	"spartanweaponry:longbow_gold":
+	{
+		"combat": 30,
+		"archery": 30
+	},
+	"spartanweaponry:heavy_crossbow_gold":
+	{
+		"combat": 30,
+		"archery": 30,
+		"endurance": 30
+	},
+	"spartanweaponry:arrow_gold":
+	{
+		"combat": 30,
+		"archery": 30
+	},
+	"spartanshields:shield_tower_gold":
+	{
+		"combat": 30,
+		"endurance": 30
+	},
+	"spartanweaponry:hammer_gold":
+	{
+		"combat": 30,
+		"endurance": 30
+	},
+	"spartanweaponry:battleaxe_gold":
+	{
+		"combat": 30,
+		"endurance": 30
+	},
+	"spartanweaponry:longsword_gold":
+	{
+		"combat": 30,
+		"endurance": 30
+	},
+	"spartanweaponry:greatsword_gold":
+	{
+		"combat": 30,
+		"endurance": 30
+	},
+	"spartanweaponry:saber_gold":
+	{
+		"combat": 30,
+		"swimming": 30
+	},
+	"spartanweaponry:katana_gold":
+	{
+		"combat": 30,
+		"agility": 30,
+		"smithing": 30
+	},
+	"spartanshields:shield_basic_gold":
+	{
+		"combat": 30
+	},
+	"spartanweaponry:boomerang_gold":
+	{
+		"combat": 30
+	},
+	"spartanweaponry:flanged_mace_gold":
+	{
+		"combat": 30
+	},
+	"spartanweaponry:throwing_knife_gold":
+	{
+		"combat": 30,
+		"agility": 30
+	},
+	"spartanweaponry:tomahawk_gold":
+	{
+		"combat": 30,
+		"agility": 30
+	},
+	"spartanweaponry:dagger_gold":
+	{
+		"combat": 30,
+		"agility": 30
+	},
+	"spartanweaponry:rapier_gold":
+	{
+		"combat": 30,
+		"agility": 30
+	},
+	"spartanweaponry:javelin_gold":
+	{
+		"combat": 30,
+		"agility": 30,
+		"endurance": 30
+	},
+	"spartanweaponry:warhammer_gold":
+	{
+		"combat": 30,
+		"agility": 30,
+		"endurance": 30
+	},
+	"spartanweaponry:spear_gold":
+	{
+		"combat": 30,
+		"agility": 30,
+		"endurance": 30
+	},
+	"spartanweaponry:halberd_gold":
+	{
+		"combat": 30,
+		"agility": 30,
+		"endurance": 30
+	},
+	"spartanweaponry:pike_gold":
+	{
+		"combat": 30,
+		"agility": 30,
+		"endurance": 30
+	},
+	"spartanweaponry:lance_gold":
+	{
+		"combat": 30,
+		"agility": 30,
+		"endurance": 30
+	},
 	"spartanshields:shield_basic_netherite":
 	{
 		"combat": 60
