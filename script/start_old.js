@@ -3756,6 +3756,34 @@ addData( "req_weapon", "spartanweaponry:lance_iron",  {"combat": 15, "agility": 
 //diamond
 //netherite
 //copper
+addData( "req_weapon", "spartanweaponry:pike_copper",  {"combat": 10, "agility": 10, "endurance": 10});
+addData( "req_weapon", "spartanweaponry:lance_copper",  {"combat": 10, "agility": 10, "endurance": 10});
+addData( "req_weapon", "spartanweaponry:glaive_copper",  {"combat": 10, "agility": 10, "endurance": 10});
+addData( "req_weapon", "spartanweaponry:halberd_copper",  {"combat": 10, "agility": 10, "endurance": 10});
+addData( "req_weapon", "spartanweaponry:quarterstaff_copper",  {"combat": 10, "agility": 10, "endurance": 10});
+addData( "req_weapon", "spartanweaponry:longbow_copper",  {"combat": 10, "archery": 10});
+addData( "req_weapon", "spartanweaponry:heavy_crossbow_copper",  {"combat": 10, "archery": 10, "endurance": 10});
+addData( "req_weapon", "spartanweaponry:battleaxe_copper",  {"combat": 10, "endurance": 10});
+addData( "req_weapon", "spartanweaponry:greatsword_copper",  {"combat": 10, "endurance": 10});
+addData( "req_weapon", "spartanweaponry:longsword_copper",  {"combat": 10, "endurance": 10});
+addData( "req_weapon", "spartanshields:shield_tower_copper",  {"combat": 10, "endurance": 10});
+addData( "req_weapon", "spartanshields:hammer_copper",  {"combat": 10, "endurance": 10});
+addData( "req_weapon", "spartanweaponry:saber_copper",  {"combat": 10, "swimming": 10});
+addData( "req_weapon", "spartanweaponry:katana_copper",  {"combat": 10, "endurance": 10, "smithing": 10});
+addData( "req_weapon", "spartanshields:shield_basic_copper",  {"combat": 10});
+addData( "req_weapon", "spartanweaponry:boomerang_copper",  {"combat": 10});
+addData( "req_weapon", "spartanweaponry:flanged_mace_copper",  {"combat": 10});
+addData( "req_weapon", "spartanweaponry:throwing_knife_copper",  {"combat": 10, "agility": 10});
+addData( "req_weapon", "spartanweaponry:dagger_copper",  {"combat": 10, "agility": 10});
+addData( "req_weapon", "spartanweaponry:tomahawk_copper",  {"combat": 10, "agility": 10});
+addData( "req_weapon", "spartanweaponry:rapier_copper",  {"combat": 10, "agility": 10});
+addData( "req_weapon", "spartanweaponry:spear_copper",  {"combat": 10, "agility": 10, "endurance": 10});
+addData( "req_weapon", "spartanweaponry:javelin_copper",  {"combat": 10, "agility": 10, "endurance": 10});
+addData( "req_weapon", "spartanweaponry:warhammer_copper",  {"combat": 10, "agility": 10, "endurance": 10});
+}
+//Farmers Delight Addon
+{
+
 }
 function addData2( dataKey, regKey, entryKey, entryObject, probe )
 {
