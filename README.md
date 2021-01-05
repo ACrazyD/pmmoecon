@@ -18,7 +18,7 @@ All the addons are located in the start_old.js script located in the Scripts fol
  - Farmers Delight
 
 
-This is the for Script provided from the PMMO Team on there discord
+This is the for Script provided from the PMMO Team on there discord: https://discord.gg/5NVNkNB
 
 (Below is a Direct HOW-TO from there #Third-party-support discord channel)
 
