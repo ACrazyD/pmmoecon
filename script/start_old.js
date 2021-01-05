@@ -3695,7 +3695,7 @@ addData( "req_weapon", "spartanweaponry:lance_wood", { "combat": 1, "agility": 1
 addData( "req_weapon", "spartanweaponry:arrow_wood", { "combat": 1, "archery": 1 } );
 addData( "req_weapon", "spartanweaponry:longbow_wood", { "combat": 1, "archery": 1 } );
 addData( "req_weapon", "minecraft:crossbow", { "combat": 1, "archery": 1, "endurance": 1 } );
-addData( "req_weapon", "spartanweaponry:heavy_crossbow_wood", { "combat": 1, "archery": 5, "endurance": 1 } );
+addData( "req_weapon", "spartanweaponry:heavy_crossbow_wood", { "combat": 1, "archery": 1, "endurance": 1 } );
 addData( "req_weapon", "minecraft:shield", { "combat": 1, "endurance": 1 } );
 addData( "req_weapon", "spartanweaponry:longsword_wood", { "combat": 1, "endurance": 1 } );
 addData( "req_weapon", "spartanweaponry:battleaxe_wood", { "combat": 1, "endurance": 1 } );
