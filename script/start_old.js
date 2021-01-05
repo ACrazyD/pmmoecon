@@ -3634,6 +3634,10 @@ addData( "req_tool", "byg:pendorite_pickaxe", {"mining": 80});
 addData( "req_tool", "byg:pendorite_axe", {"woodcutting": 80});
 addData( "req_tool", "byg:pendorite_shovel", {"excavation": 80});
 addData( "req_tool", "byg:pendorite_hoe", {"farming": 80});
+addData( "req_wear", "byg:ametrine_helmet", {"endurance": 75});
+addData( "req_wear", "byg:ametrine_chestplate", {"endurance": 75});
+addData( "req_wear", "byg:ametrine_leggings", {"endurance": 75});
+addData( "req_wear", "byg:ametrine_boots", {"endurance": 75});
 }
 //ExtendedStorage Addon
 {
@@ -3869,6 +3873,97 @@ addData( "req_weapon", "spartanweaponry:warhammer_copper",  {"combat": 10, "agil
 //Farmers Delight Addon
 {
 
+}
+//GemsNJewels Addon
+{
+addData( "req_wear", "minecraft:leather_helmet", {"endurance": 5});
+addData( "req_wear", "minecraft:leather_chestplate", {"endurance": 5});
+addData( "req_wear", "minecraft:leather_leggings", {"endurance": 5});
+addData( "req_wear", "minecraft:leather_boots", {"endurance": 5});
+addData( "req_wear", "minecraft:gold_helmet", {"endurance": 15});
+addData( "req_wear", "minecraft:gold_helmet", {"endurance": 15});
+addData( "req_wear", "minecraft:gold_helmet", {"endurance": 15});
+addData( "req_wear", "minecraft:gold_helmet", {"endurance": 15});
+addData( "req_wear", "gemsnjewels:aquamarine_helmet", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:aquamarine_chestplate", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:aquamarine_leggings", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:aquamarine_boots", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:zircon_helmet", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:zircon_chestplate", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:zircon_leggings", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:zircon_boots", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:peridot_helmet", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:peridot_chestplate", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:peridot_leggings", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:peridot_boots", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:tanzanite_helmet", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:tanzanite_chestplate", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:tanzanite_leggings", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:tanzanite_boots", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:tourmaline_helmet", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:tourmaline_chestplate", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:tourmaline_leggings", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:tourmaline_boots", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:black_opal_helmet", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:black_opal_chestplate", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:black_opal_leggings", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:black_opal_boots", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:iolite_helmet", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:iolite_chestplate", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:iolite_leggings", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:iolite_boots", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:kunzite_helmet", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:kunzite_chestplate", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:kunzite_leggings", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:kunzite_boots", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:ametrine_helmet", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:ametrine_chestplate", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:ametrine_leggings", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:ametrine_boots", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:morganite_helmet", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:morganite_chestplate", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:morganite_leggings", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:morganite_boots", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:citrine_helmet", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:citrine_chestplate", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:citrine_leggings", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:citrine_boots", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:emerald_helmet", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:emerald_chestplate", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:emerald_leggings", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:emerald_boots", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:amethyst_helmet", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:amethyst_chestplate", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:amethyst_leggings", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:amethyst_boots", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:opal_helmet", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:opal_chestplate", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:opal_leggings", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:opal_boots", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:garnet_helmet", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:garnet_chestplate", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:garnet_leggings", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:garnet_boots", {"endurance": 35});
+addData( "req_wear", "gemsnjewels:topaz_helmet", {"endurance": 40});
+addData( "req_wear", "gemsnjewels:topaz_chestplate", {"endurance": 40});
+addData( "req_wear", "gemsnjewels:topaz_leggings", {"endurance": 40});
+addData( "req_wear", "gemsnjewels:topaz_boots", {"endurance": 40});
+addData( "req_wear", "gemsnjewels:alexandrite_helmet", {"endurance": 40});
+addData( "req_wear", "gemsnjewels:alexandrite_chestplate", {"endurance": 40});
+addData( "req_wear", "gemsnjewels:alexandrite_leggings", {"endurance": 40});
+addData( "req_wear", "gemsnjewels:alexandrite_boots", {"endurance": 40});
+addData( "req_wear", "gemsnjewels:ruby_helmet", {"endurance": 40});
+addData( "req_wear", "gemsnjewels:ruby_chestplate", {"endurance": 40});
+addData( "req_wear", "gemsnjewels:ruby_leggings", {"endurance": 40});
+addData( "req_wear", "gemsnjewels:ruby_boots", {"endurance": 40});
+addData( "req_wear", "gemsnjewels:sapphire_helmet", {"endurance": 40});
+addData( "req_wear", "gemsnjewels:sapphire_chestplate", {"endurance": 40});
+addData( "req_wear", "gemsnjewels:sapphire_leggings", {"endurance": 40});
+addData( "req_wear", "gemsnjewels:sapphire_boots", {"endurance": 40});
+addData( "req_wear", "gemsnjewels:spinel_helmet", {"endurance": 40});
+addData( "req_wear", "gemsnjewels:spinel_chestplate", {"endurance": 40});
+addData( "req_wear", "gemsnjewels:spinel_leggings", {"endurance": 40});
+addData( "req_wear", "gemsnjewels:spinel_boots", {"endurance": 40});
 }
 function addData2( dataKey, regKey, entryKey, entryObject, probe )
 {
