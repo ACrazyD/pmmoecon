@@ -489,5 +489,132 @@
 		"combat": 15,
 		"agility": 15,
 		"endurance": 15
+	},
+	"spartanweaponry:pike_copper":
+	{
+		"combat": 10,
+		"agility": 10,
+		"endurance": 10
+	},
+	"spartanweaponry:lance_copper":
+	{
+		"combat": 10,
+		"agility": 10,
+		"endurance": 10
+	},
+	"spartanweaponry:glaive_copper":
+	{
+		"combat": 10,
+		"agility": 10,
+		"endurance": 10
+	},
+	"spartanweaponry:halberd_copper":
+	{
+		"combat": 10,
+		"agility": 10,
+		"endurance": 10
+	},
+	"spartanweaponry:quarterstaff_copper":
+	{
+		"combat": 10,
+		"agility": 10,
+		"endurance": 10
+	},
+	"spartanweaponry:longbow_copper":
+	{
+		"combat": 10,
+		"archery": 10
+	},
+	"spartanweaponry:heavy_crossbow_copper":
+	{
+		"combat": 10,
+		"archery": 10,
+		"endurance": 10
+	},
+	"spartanweaponry:battleaxe_copper":
+	{
+		"combat": 10,
+		"endurance": 10
+	},
+	"spartanweaponry:greatsword_copper":
+	{
+		"combat": 10,
+		"endurance": 10
+	},
+	"spartanweaponry:longsword_copper":
+	{
+		"combat": 10,
+		"endurance": 10
+	},
+	"spartanshields:shield_tower_copper":
+	{
+		"combat": 10,
+		"endurance": 10
+	},
+	"spartanshields:hammer_copper":
+	{
+		"combat": 10,
+		"endurance": 10
+	},
+	"spartanweaponry:saber_copper":
+	{
+		"combat": 10,
+		"swimming": 10
+	},
+	"spartanweaponry:katana_copper":
+	{
+		"combat": 10,
+		"endurance": 10,
+		"smithing": 10
+	},
+	"spartanshields:shield_basic_copper":
+	{
+		"combat": 10
+	},
+	"spartanweaponry:boomerang_copper":
+	{
+		"combat": 10
+	},
+	"spartanweaponry:flanged_mace_copper":
+	{
+		"combat": 10
+	},
+	"spartanweaponry:throwing_knife_copper":
+	{
+		"combat": 10,
+		"agility": 10
+	},
+	"spartanweaponry:dagger_copper":
+	{
+		"combat": 10,
+		"agility": 10
+	},
+	"spartanweaponry:tomahawk_copper":
+	{
+		"combat": 10,
+		"agility": 10
+	},
+	"spartanweaponry:rapier_copper":
+	{
+		"combat": 10,
+		"agility": 10
+	},
+	"spartanweaponry:spear_copper":
+	{
+		"combat": 10,
+		"agility": 10,
+		"endurance": 10
+	},
+	"spartanweaponry:javelin_copper":
+	{
+		"combat": 10,
+		"agility": 10,
+		"endurance": 10
+	},
+	"spartanweaponry:warhammer_copper":
+	{
+		"combat": 10,
+		"agility": 10,
+		"endurance": 10
 	}
 }
