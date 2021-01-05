@@ -1,8 +1,4 @@
 {
-	"minecraft:crossbow":
-	{
-		"archery": 10
-	},
 	"minecraft:netherite_pickaxe":
 	{
 		"combat": 60
@@ -186,7 +182,7 @@
 	"spartanweaponry:lance_wood":
 	{
 		"combat": 1,
-		"archery": 5,
+		"agility": 1,
 		"endurance": 1
 	},
 	"spartanweaponry:arrow_wood":
@@ -198,6 +194,53 @@
 	{
 		"combat": 1,
 		"archery": 1
+	},
+	"minecraft:crossbow":
+	{
+		"combat": 1,
+		"archery": 1,
+		"endurance": 1
+	},
+	"spartanweaponry:heavy_crossbow_wood":
+	{
+		"combat": 1,
+		"archery": 5,
+		"endurance": 1
+	},
+	"minecraft:shield":
+	{
+		"combat": 1,
+		"endurance": 1
+	},
+	"spartanweaponry:longsword_wood":
+	{
+		"combat": 1,
+		"endurance": 1
+	},
+	"spartanweaponry:battleaxe_wood":
+	{
+		"combat": 1,
+		"endurance": 1
+	},
+	"spartanweaponry:greatsword_wood":
+	{
+		"combat": 1,
+		"endurance": 1
+	},
+	"spartanweaponry:hammer_wood":
+	{
+		"combat": 1,
+		"endurance": 1
+	},
+	"spartanweaponry:saber_wood":
+	{
+		"combat": 1,
+		"swimming": 1
+	},
+	"spartanweaponry:katana_wood":
+	{
+		"combat": 1,
+		"smithing": 1
 	},
 	"spartanshields:shield_basic_stone":
 	{
