@@ -646,6 +646,138 @@
 		"agility": 30,
 		"endurance": 30
 	},
+	"spartanweaponry:glaive_diamond":
+	{
+		"combat": 40,
+		"agility": 40,
+		"endurance": 40
+	},
+	"spartanweaponry:quarterstaff_diamond":
+	{
+		"combat": 40,
+		"agility": 40,
+		"endurance": 40
+	},
+	"spartanweaponry:longbow_diamond":
+	{
+		"combat": 40,
+		"archery": 40
+	},
+	"spartanweaponry:heavy_crossbow_diamond":
+	{
+		"combat": 40,
+		"archery": 40,
+		"endurance": 40
+	},
+	"spartanweaponry:arrow_diamond":
+	{
+		"combat": 40,
+		"archery": 40
+	},
+	"spartanshields:shield_tower_diamond":
+	{
+		"combat": 40,
+		"endurance": 40
+	},
+	"spartanweaponry:hammer_diamond":
+	{
+		"combat": 40,
+		"endurance": 40
+	},
+	"spartanweaponry:battleaxe_diamond":
+	{
+		"combat": 40,
+		"endurance": 40
+	},
+	"spartanweaponry:longsword_diamond":
+	{
+		"combat": 40,
+		"endurance": 40
+	},
+	"spartanweaponry:greatsword_diamond":
+	{
+		"combat": 40,
+		"endurance": 40
+	},
+	"spartanweaponry:saber_diamond":
+	{
+		"combat": 40,
+		"swimming": 40
+	},
+	"spartanweaponry:katana_diamond":
+	{
+		"combat": 40,
+		"agility": 40,
+		"smithing": 40
+	},
+	"spartanshields:shield_basic_diamond":
+	{
+		"combat": 40
+	},
+	"spartanweaponry:boomerang_diamond":
+	{
+		"combat": 40
+	},
+	"spartanweaponry:flanged_mace_diamond":
+	{
+		"combat": 40
+	},
+	"spartanweaponry:throwing_knife_diamond":
+	{
+		"combat": 40,
+		"agility": 40
+	},
+	"spartanweaponry:tomahawk_diamond":
+	{
+		"combat": 40,
+		"agility": 40
+	},
+	"spartanweaponry:dagger_diamond":
+	{
+		"combat": 40,
+		"agility": 40
+	},
+	"spartanweaponry:rapier_diamond":
+	{
+		"combat": 40,
+		"agility": 40
+	},
+	"spartanweaponry:javelin_diamond":
+	{
+		"combat": 40,
+		"agility": 40,
+		"endurance": 40
+	},
+	"spartanweaponry:warhammer_diamond":
+	{
+		"combat": 40,
+		"agility": 40,
+		"endurance": 40
+	},
+	"spartanweaponry:spear_diamond":
+	{
+		"combat": 40,
+		"agility": 40,
+		"endurance": 40
+	},
+	"spartanweaponry:halberd_diamond":
+	{
+		"combat": 40,
+		"agility": 40,
+		"endurance": 40
+	},
+	"spartanweaponry:pike_diamond":
+	{
+		"combat": 40,
+		"agility": 40,
+		"endurance": 40
+	},
+	"spartanweaponry:lance_diamond":
+	{
+		"combat": 40,
+		"agility": 40,
+		"endurance": 40
+	},
 	"spartanshields:shield_basic_netherite":
 	{
 		"combat": 60
