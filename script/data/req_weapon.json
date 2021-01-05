@@ -113,27 +113,27 @@
 	},
 	"byg:pendorite_sword":
 	{
-		"combat": 60
+		"combat": 75
 	},
 	"byg:pendorite_hoe":
 	{
-		"combat": 60
+		"combat": 75
 	},
 	"byg:pendorite_shovel":
 	{
-		"combat": 60
+		"combat": 75
 	},
 	"byg:pendorite_pickaxe":
 	{
-		"combat": 60
+		"combat": 75
 	},
 	"byg:pendorite_axe":
 	{
-		"combat": 60
+		"combat": 75
 	},
 	"byg:pendorite_battleaxe":
 	{
-		"combat": 60
+		"combat": 75
 	},
 	"spartanweaponry:boomerang_wood":
 	{
