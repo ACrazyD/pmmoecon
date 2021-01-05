@@ -3800,6 +3800,7 @@ addData( "req_weapon", "spartanweaponry:battleaxe_diamond",  {"combat": 40, "end
 addData( "req_weapon", "spartanweaponry:longsword_diamond",  {"combat": 40, "endurance": 40});
 addData( "req_weapon", "spartanweaponry:greatsword_diamond",  {"combat": 40, "endurance": 40});
 addData( "req_weapon", "spartanweaponry:saber_diamond",  {"combat": 40, "swimming": 40});
+addData( "req_weapon", "minecraft:trident",  {"combat": 40, "swimming": 40});
 addData( "req_weapon", "spartanweaponry:katana_diamond",  {"combat": 40, "agility": 40, "smithing": 40});
 addData( "req_weapon", "spartanshields:shield_basic_diamond",  {"combat": 40});
 addData( "req_weapon", "spartanweaponry:boomerang_diamond",  {"combat": 40});
