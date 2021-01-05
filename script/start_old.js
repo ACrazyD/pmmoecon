@@ -3624,12 +3624,12 @@ addData( "xp_value_break", "byg:red_oak_leaves",										{ "woodcutting": 1 } )
 addData( "xp_value_break", "byg:red_spruce_leaves",										{ "woodcutting": 1 } );
 addData( "xp_value_break", "byg:yellow_birch_leaves",									{ "woodcutting": 1 } );
 addData( "xp_value_break", "byg:yellow_spruce_leaves",									{ "woodcutting": 1 } );
-addData( "req_weapon", "byg:pendorite_sword",  {"combat": 60});
-addData( "req_weapon", "byg:pendorite_hoe",  {"combat": 60});
-addData( "req_weapon", "byg:pendorite_shovel",  {"combat": 60});
-addData( "req_weapon", "byg:pendorite_pickaxe",  {"combat": 60});
-addData( "req_weapon", "byg:pendorite_axe",  {"combat": 60});
-addData( "req_weapon", "byg:pendorite_battleaxe",  {"combat": 60});
+addData( "req_weapon", "byg:pendorite_sword",  {"combat": 75});
+addData( "req_weapon", "byg:pendorite_hoe",  {"combat": 75});
+addData( "req_weapon", "byg:pendorite_shovel",  {"combat": 75});
+addData( "req_weapon", "byg:pendorite_pickaxe",  {"combat": 75});
+addData( "req_weapon", "byg:pendorite_axe",  {"combat": 75});
+addData( "req_weapon", "byg:pendorite_battleaxe",  {"combat": 75});
 addData( "req_tool", "byg:pendorite_pickaxe", {"mining": 80});
 addData( "req_tool", "byg:pendorite_axe", {"woodcutting": 80});
 addData( "req_tool", "byg:pendorite_shovel", {"excavation": 80});
