@@ -3731,7 +3731,7 @@ addData( "req_weapon", "spartanweaponry:glaive_iron",  {"combat": 15, "agility":
 addData( "req_weapon", "spartanweaponry:quarterstaff_iron",  {"combat": 15, "agility": 15, "endurance": 15});
 addData( "req_weapon", "spartanweaponry:longbow_iron",  {"combat": 15, "archery": 15});
 addData( "req_weapon", "spartanweaponry:heavy_crossbow_iron",  {"combat": 15, "archery": 15, "endurance": 15});
-addData( "req_weapon", "spartanweaponry:arrow_iron",  {"combat": 15, "endurance": 15});
+addData( "req_weapon", "spartanweaponry:arrow_iron",  {"combat": 15, "archery": 15});
 addData( "req_weapon", "spartanshields:shield_tower_iron",  {"combat": 15, "endurance": 15});
 addData( "req_weapon", "spartanweaponry:hammer_iron",  {"combat": 15, "endurance": 15});
 addData( "req_weapon", "spartanweaponry:battleaxe_iron",  {"combat": 15, "endurance": 15});
