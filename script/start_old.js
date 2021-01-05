@@ -3789,6 +3789,31 @@ addData( "req_weapon", "spartanweaponry:halberd_gold",  {"combat": 30, "agility"
 addData( "req_weapon", "spartanweaponry:pike_gold",  {"combat": 30, "agility": 30, "endurance": 30});
 addData( "req_weapon", "spartanweaponry:lance_gold",  {"combat": 30, "agility": 30, "endurance": 30});
 //diamond
+addData( "req_weapon", "spartanweaponry:glaive_diamond",  {"combat": 40, "agility": 40, "endurance": 40});
+addData( "req_weapon", "spartanweaponry:quarterstaff_diamond",  {"combat": 40, "agility": 40, "endurance": 40});
+addData( "req_weapon", "spartanweaponry:longbow_diamond",  {"combat": 40, "archery": 40});
+addData( "req_weapon", "spartanweaponry:heavy_crossbow_diamond",  {"combat": 40, "archery": 40, "endurance": 40});
+addData( "req_weapon", "spartanweaponry:arrow_diamond",  {"combat": 40, "archery": 40});
+addData( "req_weapon", "spartanshields:shield_tower_diamond",  {"combat": 40, "endurance": 40});
+addData( "req_weapon", "spartanweaponry:hammer_diamond",  {"combat": 40, "endurance": 40});
+addData( "req_weapon", "spartanweaponry:battleaxe_diamond",  {"combat": 40, "endurance": 40});
+addData( "req_weapon", "spartanweaponry:longsword_diamond",  {"combat": 40, "endurance": 40});
+addData( "req_weapon", "spartanweaponry:greatsword_diamond",  {"combat": 40, "endurance": 40});
+addData( "req_weapon", "spartanweaponry:saber_diamond",  {"combat": 40, "swimming": 40});
+addData( "req_weapon", "spartanweaponry:katana_diamond",  {"combat": 40, "agility": 40, "smithing": 40});
+addData( "req_weapon", "spartanshields:shield_basic_diamond",  {"combat": 40});
+addData( "req_weapon", "spartanweaponry:boomerang_diamond",  {"combat": 40});
+addData( "req_weapon", "spartanweaponry:flanged_mace_diamond",  {"combat": 40});
+addData( "req_weapon", "spartanweaponry:throwing_knife_diamond",  {"combat": 40, "agility": 40});
+addData( "req_weapon", "spartanweaponry:tomahawk_diamond",  {"combat": 40, "agility": 40});
+addData( "req_weapon", "spartanweaponry:dagger_diamond",  {"combat": 40, "agility": 40});
+addData( "req_weapon", "spartanweaponry:rapier_diamond",  {"combat": 40, "agility": 40});
+addData( "req_weapon", "spartanweaponry:javelin_diamond",  {"combat": 40, "agility": 40, "endurance": 40});
+addData( "req_weapon", "spartanweaponry:warhammer_diamond",  {"combat": 40, "agility": 40, "endurance": 40});
+addData( "req_weapon", "spartanweaponry:spear_diamond",  {"combat": 40, "agility": 40, "endurance": 40});
+addData( "req_weapon", "spartanweaponry:halberd_diamond",  {"combat": 40, "agility": 40, "endurance": 40});
+addData( "req_weapon", "spartanweaponry:pike_diamond",  {"combat": 40, "agility": 40, "endurance": 40});
+addData( "req_weapon", "spartanweaponry:lance_diamond",  {"combat": 40, "agility": 40, "endurance": 40});
 //netherite
 addData( "req_weapon", "spartanshields:shield_basic_netherite",  {"combat": 60});
 addData( "req_weapon", "spartanweaponry:boomerang_netherite",  {"combat": 60});
