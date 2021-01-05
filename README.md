@@ -15,7 +15,7 @@ All the addons are located in the start_old.js script located in the Scripts fol
  - StorageNetworks (Also based on my Datapack)
  - Spartan Weapons/Shields
  - GemsNJewels (Partial)
- - Farmers Delight
+ - Farmers Delight (Still being worked out)
 
 
 This is the for Script provided from the PMMO Team on there discord: https://discord.gg/5NVNkNB
@@ -36,3 +36,6 @@ https://drive.google.com/file/d/16UDpBM1IWKNHhFKqjvTe24_XjEW0VLrQ/view?usp=shari
 
 if you need to convert from old builder style, to new, download this, put it in the same place with start.js and do node convert into your terminal, then copy out from converted.js to start.js
 https://drive.google.com/file/d/1AdStTB05UEk0V4lsORCh5jO2JS5vPPwE/view?usp=sharing
+
+
+If you wanna tell us how much this helped or maybe request addons made up to save you time join our discord (https://discord.gg/7ee3xQA) or tag me (@ACrazyD#4299) in Pmmos discord!
