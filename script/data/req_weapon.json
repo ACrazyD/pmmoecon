@@ -384,7 +384,7 @@
 	"spartanweaponry:arrow_iron":
 	{
 		"combat": 15,
-		"endurance": 15
+		"archery": 15
 	},
 	"spartanshields:shield_tower_iron":
 	{
