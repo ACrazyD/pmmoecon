@@ -131,7 +131,6 @@ addData( "req_tool", "minecraft:wooden_pickaxe",										{ "mining": 1 } );
 addData( "req_tool", "minecraft:wooden_shovel",											{ "excavation": 1 } );
 addData( "req_tool", "minecraft:wooden_axe",											{ "woodcutting": 1 } );
 addData( "req_tool", "minecraft:wooden_hoe",											{ "farming": 1 } );
-addData( "req_weapon", "minecraft:crossbow",											{ "archery": 10 } );
 addData( "req_weapon", "minecraft:netherite_pickaxe",									{ "combat": 60 } );
 addData( "req_weapon", "minecraft:netherite_shovel",									{ "combat": 60 } );
 addData( "req_weapon", "minecraft:netherite_axe",										{ "combat": 65 } );
@@ -3694,8 +3693,8 @@ addData( "req_weapon", "spartanweaponry:javelin_wood", { "combat": 1, "agility":
 addData( "req_weapon", "spartanweaponry:lance_wood", { "combat": 1, "agility": 1, "endurance": 1 } );
 addData( "req_weapon", "spartanweaponry:arrow_wood", { "combat": 1, "archery": 1 } );
 addData( "req_weapon", "spartanweaponry:longbow_wood", { "combat": 1, "archery": 1 } );
-addData( "req_weapon", "spartanweaponry:lance_wood", { "combat": 1, "archery": 1, "endurance": 1 } );
-addData( "req_weapon", "spartanweaponry:lance_wood", { "combat": 1, "archery": 5, "endurance": 1 } );
+addData( "req_weapon", "minecraft:crossbow", { "combat": 1, "archery": 1, "endurance": 1 } );
+addData( "req_weapon", "spartanweaponry:heavy_crossbow_wood", { "combat": 1, "archery": 5, "endurance": 1 } );
 
 
 addData( "req_weapon", "spartanshields:shield_basic_stone", {"combat": 3});
