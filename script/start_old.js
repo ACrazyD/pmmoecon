@@ -3624,6 +3624,16 @@ addData( "xp_value_break", "byg:red_oak_leaves",										{ "woodcutting": 1 } )
 addData( "xp_value_break", "byg:red_spruce_leaves",										{ "woodcutting": 1 } );
 addData( "xp_value_break", "byg:yellow_birch_leaves",									{ "woodcutting": 1 } );
 addData( "xp_value_break", "byg:yellow_spruce_leaves",									{ "woodcutting": 1 } );
+addData( "req_weapon", "byg:pendorite_sword",  {"combat": 60});
+addData( "req_weapon", "byg:pendorite_hoe",  {"combat": 60});
+addData( "req_weapon", "byg:pendorite_shovel",  {"combat": 60});
+addData( "req_weapon", "byg:pendorite_pickaxe",  {"combat": 60});
+addData( "req_weapon", "byg:pendorite_axe",  {"combat": 60});
+addData( "req_weapon", "byg:pendorite_battleaxe",  {"combat": 60});
+addData( "req_tool", "byg:pendorite_pickaxe", {"mining": 80});
+addData( "req_tool", "byg:pendorite_axe", {"woodcutting": 80});
+addData( "req_tool", "byg:pendorite_shovel", {"excavation": 80});
+addData( "req_tool", "byg:pendorite_hoe", {"farming": 80});
 }
 //ExtendedStorage Addon
 {
@@ -3755,6 +3765,30 @@ addData( "req_weapon", "spartanweaponry:lance_iron",  {"combat": 15, "agility": 
 //gold
 //diamond
 //netherite
+addData( "req_weapon", "spartanshields:shield_basic_netherite",  {"combat": 60});
+addData( "req_weapon", "spartanweaponry:boomerang_netherite",  {"combat": 60});
+addData( "req_weapon", "spartanweaponry:flanged_mace_netherite",  {"combat": 60});
+addData( "req_weapon", "spartanweaponry:throwing_knife_netherite",  {"combat": 60, "agility": 60});
+addData( "req_weapon", "spartanweaponry:tomahawk_netherite",  {"combat": 60, "agility": 60});
+addData( "req_weapon", "spartanweaponry:dagger_netherite",  {"combat": 60, "agility": 60});
+addData( "req_weapon", "spartanweaponry:rapier_netherite",  {"combat": 60, "agility": 60});
+addData( "req_weapon", "spartanweaponry:spear_netherite",  {"combat": 60, "agility": 60, "endurance":60});
+addData( "req_weapon", "spartanweaponry:pike_netherite",  {"combat": 60, "agility": 60, "endurance":60});
+addData( "req_weapon", "spartanweaponry:glaive_netherite",  {"combat": 60, "agility": 60, "endurance":60});
+addData( "req_weapon", "spartanweaponry:warhammer_netherite",  {"combat": 60, "agility": 60, "endurance":60});
+addData( "req_weapon", "spartanweaponry:halberd_netherite",  {"combat": 60, "agility": 60, "endurance":60});
+addData( "req_weapon", "spartanweaponry:quarterstaff_netherite",  {"combat": 60, "agility": 60, "endurance":60});
+addData( "req_weapon", "spartanweaponry:javelin_netherite",  {"combat": 60, "agility": 60, "endurance":60});
+addData( "req_weapon", "spartanweaponry:lance_netherite",  {"combat": 60, "agility": 60, "endurance":60});
+addData( "req_weapon", "spartanweaponry:longbow_netherite",  {"combat": 60, "archery": 60});
+addData( "req_weapon", "spartanweaponry:heavy_crossbow_netherite",  {"combat": 60, "archery": 60, "endurance": 60});
+addData( "req_weapon", "spartanshields:shield_tower_netherite",  {"combat": 60, "endurance": 60});
+addData( "req_weapon", "spartanweaponry:greatsword_netherite",  {"combat": 60, "endurance": 60});
+addData( "req_weapon", "spartanweaponry:longsword_netherite",  {"combat": 60, "endurance": 60});
+addData( "req_weapon", "spartanweaponry:battleaxe_netherite",  {"combat": 60, "endurance": 60});
+addData( "req_weapon", "spartanweaponry:hammer_netherite",  {"combat": 60, "endurance": 60});
+addData( "req_weapon", "spartanweaponry:saber_netherite",  {"combat": 60, "swimming": 60});
+addData( "req_weapon", "spartanweaponry:katana_netherite",  {"combat": 60, "endurance": 60, "smithing": 60});
 //copper
 addData( "req_weapon", "spartanweaponry:pike_copper",  {"combat": 10, "agility": 10, "endurance": 10});
 addData( "req_weapon", "spartanweaponry:lance_copper",  {"combat": 10, "agility": 10, "endurance": 10});
