@@ -19,6 +19,10 @@
 	{
 		"autoValueOffsetTool": -10
 	},
+	"minecraft:potion":
+	{
+		"magicWeapon": 1.5
+	},
 	"minecraft:bow":
 	{
 		"archeryWeapon": 1.5
