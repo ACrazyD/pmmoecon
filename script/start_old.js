@@ -2891,7 +2891,21 @@ addData( "req_wear", "minecolonies:pirate_cap",											{ "endurance": 45 } );
 addData( "req_wear", "minecolonies:pirate_chest",										{ "endurance": 45 } );
 addData( "req_wear", "minecolonies:pirate_legs",										{ "endurance": 45 } );
 addData( "req_wear", "minecolonies:pirate_shoes",										{ "endurance": 45 } );
-addData( "req_use", "minecolonies:blockhuttownhall",									{ "mining": 15, "woodcutting": 15, "excavation": 15, "building": 15, "farming": 15, "fishing": 15, "combat": 15, "smithing": 15, "crafting": 15, "cooking": 15 } );
+addData( "req_use", "minecolonies:blockhuttownhall",									{ "crafting": 15 } );
+ addData( "req_use", "minecolonies:blockhutbaker", { "crafting": 15, "cooking":15 } );
+ addData( "req_use", "minecolonies:blockhutblacksmith", { "crafting": 15, "smithing":15 } );
+ addData( "req_use", "minecolonies:blockhutbuilder", { "crafting": 15, "building":15 } );
+ addData( "req_use", "minecolonies:blockhutfarmer", { "crafting": 15, "farming":15 } );
+ addData( "req_use", "minecolonies:blockhutfield", { "crafting": 15, "farming":15 } );
+ addData( "req_use", "minecolonies:blockhutfisherman", { "crafting": 15, "fishing":15 } );
+ addData( "req_use", "minecolonies:blockhutlumberjack", { "crafting": 15, "woodcutting":15 } );
+ addData( "req_use", "minecolonies:blockhutminer", { "crafting": 15, "mining":15 } );
+ addData( "req_use", "minecolonies:blockhutbarracks", { "crafting": 15, "combat":15 } );
+ addData( "req_use", "minecolonies:blockhutsmeltery", { "crafting": 15, "smithing":15 } );
+ addData( "req_use", "minecolonies:blockhutcombatacademy", { "crafting": 15, "combat":15 } );
+ addData( "req_use", "minecolonies:blockhutcook", { "crafting": 15, "cooking":15 } );
+ addData( "req_use", "minecolonies:blockhutarchery", { "crafting": 15, "archery":15 } );
+ addData( "req_use", "minecolonies:blockhutguardtower", { "crafting": 15, "archery":15 } );
 }
 //Create Addon
 {
