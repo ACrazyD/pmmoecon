@@ -2906,7 +2906,7 @@ addData( "req_use", "minecolonies:blockhutcombatacademy", { "crafting": 15, "com
 addData( "req_use", "minecolonies:blockhutcook", { "crafting": 15, "cooking":15 } );
 addData( "req_use", "minecolonies:blockhutarchery", { "crafting": 15, "archery":15 } );
 addData( "req_use", "minecolonies:blockhutguardtower", { "crafting": 15, "archery":15 } );
-
+}
 //Create Addon
 {
 addData( "req_craft", "create:schematicannon",											{ "crafting": 20, "smithing": 10 } );
