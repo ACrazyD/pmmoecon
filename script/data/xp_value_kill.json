@@ -86,9 +86,5 @@
 	"minecraft:wither":
 	{
 		"combat": 1000
-	},
-	"minecraft:bow":
-	{
-		"archery": 1.5
 	}
 }

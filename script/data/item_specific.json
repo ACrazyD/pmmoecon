@@ -21,6 +21,6 @@
 	},
 	"minecraft:bow":
 	{
-		"archery": 1.5
+		"archeryWeapon": 1.5
 	}
 }
