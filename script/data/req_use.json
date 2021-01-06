@@ -21,16 +21,77 @@
 	},
 	"minecolonies:blockhuttownhall":
 	{
-		"mining": 15,
-		"woodcutting": 15,
-		"excavation": 15,
-		"building": 15,
-		"farming": 15,
-		"fishing": 15,
-		"combat": 15,
-		"smithing": 15,
+		"crafting": 15
+	},
+	"minecolonies:blockhutbaker":
+	{
 		"crafting": 15,
 		"cooking": 15
+	},
+	"minecolonies:blockhutblacksmith":
+	{
+		"crafting": 15,
+		"smithing": 15
+	},
+	"minecolonies:blockhutbuilder":
+	{
+		"crafting": 15,
+		"building": 15
+	},
+	"minecolonies:blockhutfarmer":
+	{
+		"crafting": 15,
+		"farming": 15
+	},
+	"minecolonies:blockhutfield":
+	{
+		"crafting": 15,
+		"farming": 15
+	},
+	"minecolonies:blockhutfisherman":
+	{
+		"crafting": 15,
+		"fishing": 15
+	},
+	"minecolonies:blockhutlumberjack":
+	{
+		"crafting": 15,
+		"woodcutting": 15
+	},
+	"minecolonies:blockhutminer":
+	{
+		"crafting": 15,
+		"mining": 15
+	},
+	"minecolonies:blockhutbarracks":
+	{
+		"crafting": 15,
+		"combat": 15
+	},
+	"minecolonies:blockhutsmeltery":
+	{
+		"crafting": 15,
+		"smithing": 15
+	},
+	"minecolonies:blockhutcombatacademy":
+	{
+		"crafting": 15,
+		"combat": 15
+	},
+	"minecolonies:blockhutcook":
+	{
+		"crafting": 15,
+		"cooking": 15
+	},
+	"minecolonies:blockhutarchery":
+	{
+		"crafting": 15,
+		"archery": 15
+	},
+	"minecolonies:blockhutguardtower":
+	{
+		"crafting": 15,
+		"archery": 15
 	},
 	"create:sand_paper":
 	{
