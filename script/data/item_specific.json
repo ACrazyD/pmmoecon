@@ -18,5 +18,9 @@
 	"minecraft:stone_pickaxe":
 	{
 		"autoValueOffsetTool": -10
+	},
+	"minecraft:bow":
+	{
+		"archery": 1.5
 	}
 }
