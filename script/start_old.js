@@ -3916,14 +3916,6 @@ addData( "item_specific", "spartanweaponry:heavy_crossbow_leather", { "archeryWe
 }
 //GemsNJewels Addon
 {
-addData( "req_wear", "minecraft:leather_helmet", {"endurance": 5});
-addData( "req_wear", "minecraft:leather_chestplate", {"endurance": 5});
-addData( "req_wear", "minecraft:leather_leggings", {"endurance": 5});
-addData( "req_wear", "minecraft:leather_boots", {"endurance": 5});
-addData( "req_wear", "minecraft:gold_helmet", {"endurance": 15});
-addData( "req_wear", "minecraft:gold_helmet", {"endurance": 15});
-addData( "req_wear", "minecraft:gold_helmet", {"endurance": 15});
-addData( "req_wear", "minecraft:gold_helmet", {"endurance": 15});
 addData( "req_wear", "gemsnjewels:aquamarine_helmet", {"endurance": 35});
 addData( "req_wear", "gemsnjewels:aquamarine_chestplate", {"endurance": 35});
 addData( "req_wear", "gemsnjewels:aquamarine_leggings", {"endurance": 35});
