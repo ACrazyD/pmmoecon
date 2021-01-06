@@ -3894,6 +3894,20 @@ addData( "req_weapon", "spartanweaponry:spear_copper",  {"combat": 10, "agility"
 addData( "req_weapon", "spartanweaponry:javelin_copper",  {"combat": 10, "agility": 10, "endurance": 10});
 addData( "req_weapon", "spartanweaponry:warhammer_copper",  {"combat": 10, "agility": 10, "endurance": 10});
 addData( "item_specific", "minecraft:bow", { "archeryWeapon": 1.5 });
+addData( "item_specific", "spartanweaponry:longbow_wood", { "archeryWeapon": 1.5 });
+addData( "item_specific", "spartanweaponry:longbow_iron", { "archeryWeapon": 1.5 });
+addData( "item_specific", "spartanweaponry:longbow_gold", { "archeryWeapon": 1.5 });
+addData( "item_specific", "spartanweaponry:longbow_diamond", { "archeryWeapon": 1.5 });
+addData( "item_specific", "spartanweaponry:longbow_netherite", { "archeryWeapon": 1.5 });
+addData( "item_specific", "spartanweaponry:longbow_copper", { "archeryWeapon": 1.5 });
+addData( "item_specific", "spartanweaponry:longbow_leather", { "archeryWeapon": 1.5 });
+addData( "item_specific", "spartanweaponry:heavy_crossbow_wood", { "archeryWeapon": 1.5 });
+addData( "item_specific", "spartanweaponry:heavy_crossbow_iron", { "archeryWeapon": 1.5 });
+addData( "item_specific", "spartanweaponry:heavy_crossbow_gold", { "archeryWeapon": 1.5 });
+addData( "item_specific", "spartanweaponry:heavy_crossbow_diamond", { "archeryWeapon": 1.5 });
+addData( "item_specific", "spartanweaponry:heavy_crossbow_netherite", { "archeryWeapon": 1.5 });
+addData( "item_specific", "spartanweaponry:heavy_crossbow_copper", { "archeryWeapon": 1.5 });
+addData( "item_specific", "spartanweaponry:heavy_crossbow_leather", { "archeryWeapon": 1.5 });
 }
 //Farmers Delight Addon
 {
