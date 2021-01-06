@@ -22,5 +22,61 @@
 	"minecraft:bow":
 	{
 		"archeryWeapon": 1.5
+	},
+	"spartanweaponry:longbow_wood":
+	{
+		"archeryWeapon": 1.5
+	},
+	"spartanweaponry:longbow_iron":
+	{
+		"archeryWeapon": 1.5
+	},
+	"spartanweaponry:longbow_gold":
+	{
+		"archeryWeapon": 1.5
+	},
+	"spartanweaponry:longbow_diamond":
+	{
+		"archeryWeapon": 1.5
+	},
+	"spartanweaponry:longbow_netherite":
+	{
+		"archeryWeapon": 1.5
+	},
+	"spartanweaponry:longbow_copper":
+	{
+		"archeryWeapon": 1.5
+	},
+	"spartanweaponry:longbow_leather":
+	{
+		"archeryWeapon": 1.5
+	},
+	"spartanweaponry:heavy_crossbow_wood":
+	{
+		"archeryWeapon": 1.5
+	},
+	"spartanweaponry:heavy_crossbow_iron":
+	{
+		"archeryWeapon": 1.5
+	},
+	"spartanweaponry:heavy_crossbow_gold":
+	{
+		"archeryWeapon": 1.5
+	},
+	"spartanweaponry:heavy_crossbow_diamond":
+	{
+		"archeryWeapon": 1.5
+	},
+	"spartanweaponry:heavy_crossbow_netherite":
+	{
+		"archeryWeapon": 1.5
+	},
+	"spartanweaponry:heavy_crossbow_copper":
+	{
+		"archeryWeapon": 1.5
+	},
+	"spartanweaponry:heavy_crossbow_leather":
+	{
+		"archeryWeapon": 1.5
 	}
 }
