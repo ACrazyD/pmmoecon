@@ -708,8 +708,7 @@ addData( "mob_rare_drop", "minecraft:slime",											{ "minecraft:slime_block"
 addData( "mob_rare_drop", "minecraft:zombie",											{ "minecraft:beetroot": 40 } );
 addData( "mob_rare_drop", "minecraft:sheep",											{ "minecraft:string": 10 } );
 addData( "mob_rare_drop", "minecraft:chicken",											{ "minecraft:egg": 10 } );
-addData( "biome_mob_multiplier", "minecraft:plains",									{ "speedBonus": 0.75, "hpBonus": 0.75, "damageBonus": 0.75 } );
-													   
+addData( "biome_mob_multiplier", "minecraft:plains",									{ "speedBonus": 0.75, "hpBonus": 0.75, "damageBonus": 0.75 } );											   
 addData( "biome_effect_positive", "minecraft:plains",									{ "minecraft:speed": 0 } );
 addData( "xp_bonus_biome", "minecraft:river",											{ "fishing": 5 } );
 addData( "biome_mob_multiplier", "minecraft:river",										{ "speedBonus": 0.75, "hpBonus": 0.75, "damageBonus": 0.75 } );
@@ -2876,9 +2875,9 @@ addData( "xp_bonus_dimension", "minecraft:the_nether",									{ "combat": 25, "
 		"xpPerItem": 1.5,
 		"levelReq": 5
 	} );
+addData( "item_specific", "minecraft:potion", { "magicWeapon": 1.5 });
+
 }
-
-
 //MineColoies Addon
 {
 addData( "req_weapon", "minecolonies:chiefsword",										{ "combat": 35 } );
