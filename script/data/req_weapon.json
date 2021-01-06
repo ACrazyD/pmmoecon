@@ -382,6 +382,18 @@
 		"combat": 3,
 		"swimming": 3
 	},
+	"spartanweaponry:heavy_crossbow_leather":
+	{
+		"combat": 3,
+		"archery": 3,
+		"endurance": 3
+	},
+	"spartanweaponry:longbow_leather":
+	{
+		"combat": 3,
+		"archery": 3,
+		"endurance": 3
+	},
 	"spartanweaponry:glaive_iron":
 	{
 		"combat": 15,
