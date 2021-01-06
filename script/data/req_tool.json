@@ -958,5 +958,845 @@
 	"gemsnjewels:kunzite_set_gold_hoe":
 	{
 		"farming": 30
+	},
+	"gemsnjewels:diamond_set_diamond_sword":
+	{
+		"combat": 40
+	},
+	"gemsnjewels:emerald_set_diamond_sword":
+	{
+		"combat": 40
+	},
+	"gemsnjewels:ruby_set_diamond_sword":
+	{
+		"combat": 40
+	},
+	"gemsnjewels:sapphire_set_diamond_sword":
+	{
+		"combat": 40
+	},
+	"gemsnjewels:amethyst_set_diamond_sword":
+	{
+		"combat": 40
+	},
+	"gemsnjewels:opal_set_diamond_sword":
+	{
+		"combat": 40
+	},
+	"gemsnjewels:garnet_set_diamond_sword":
+	{
+		"combat": 40
+	},
+	"gemsnjewels:topaz_set_diamond_sword":
+	{
+		"combat": 40
+	},
+	"gemsnjewels:peridot_set_diamond_sword":
+	{
+		"combat": 40
+	},
+	"gemsnjewels:aquamarine_set_diamond_sword":
+	{
+		"combat": 40
+	},
+	"gemsnjewels:zircon_set_diamond_sword":
+	{
+		"combat": 40
+	},
+	"gemsnjewels:alexandrite_set_diamond_sword":
+	{
+		"combat": 40
+	},
+	"gemsnjewels:tanzanite_set_diamond_sword":
+	{
+		"combat": 40
+	},
+	"gemsnjewels:tourmaline_set_diamond_sword":
+	{
+		"combat": 40
+	},
+	"gemsnjewels:spinel_set_diamond_sword":
+	{
+		"combat": 40
+	},
+	"gemsnjewels:black_opal_set_diamond_sword":
+	{
+		"combat": 40
+	},
+	"gemsnjewels:citrine_set_diamond_sword":
+	{
+		"combat": 40
+	},
+	"gemsnjewels:morganite_set_diamond_sword":
+	{
+		"combat": 40
+	},
+	"gemsnjewels:ametrine_set_diamond_sword":
+	{
+		"combat": 40
+	},
+	"gemsnjewels:iolite_set_diamond_sword":
+	{
+		"combat": 40
+	},
+	"gemsnjewels:kunzite_set_diamond_sword":
+	{
+		"combat": 40
+	},
+	"gemsnjewels:diamond_set_diamond_pickaxe":
+	{
+		"mining": 40
+	},
+	"gemsnjewels:emerald_set_diamond_pickaxe":
+	{
+		"mining": 40
+	},
+	"gemsnjewels:ruby_set_diamond_pickaxe":
+	{
+		"mining": 40
+	},
+	"gemsnjewels:sapphire_set_diamond_pickaxe":
+	{
+		"mining": 40
+	},
+	"gemsnjewels:amethyst_set_diamond_pickaxe":
+	{
+		"mining": 40
+	},
+	"gemsnjewels:opal_set_diamond_pickaxe":
+	{
+		"mining": 40
+	},
+	"gemsnjewels:garnet_set_diamond_pickaxe":
+	{
+		"mining": 40
+	},
+	"gemsnjewels:topaz_set_diamond_pickaxe":
+	{
+		"mining": 40
+	},
+	"gemsnjewels:peridot_set_diamond_pickaxe":
+	{
+		"mining": 40
+	},
+	"gemsnjewels:aquamarine_set_diamond_pickaxe":
+	{
+		"mining": 40
+	},
+	"gemsnjewels:zircon_set_diamond_pickaxe":
+	{
+		"mining": 40
+	},
+	"gemsnjewels:alexandrite_set_diamond_pickaxe":
+	{
+		"mining": 40
+	},
+	"gemsnjewels:tanzanite_set_diamond_pickaxe":
+	{
+		"mining": 40
+	},
+	"gemsnjewels:tourmaline_set_diamond_pickaxe":
+	{
+		"mining": 40
+	},
+	"gemsnjewels:spinel_set_diamond_pickaxe":
+	{
+		"mining": 40
+	},
+	"gemsnjewels:black_opal_set_diamond_pickaxe":
+	{
+		"mining": 40
+	},
+	"gemsnjewels:citrine_set_diamond_pickaxe":
+	{
+		"mining": 40
+	},
+	"gemsnjewels:morganite_set_diamond_pickaxe":
+	{
+		"mining": 40
+	},
+	"gemsnjewels:ametrine_set_diamond_pickaxe":
+	{
+		"mining": 40
+	},
+	"gemsnjewels:iolite_set_diamond_pickaxe":
+	{
+		"mining": 40
+	},
+	"gemsnjewels:kunzite_set_diamond_pickaxe":
+	{
+		"mining": 40
+	},
+	"gemsnjewels:diamond_set_diamond_axe":
+	{
+		"woodcutting": 40
+	},
+	"gemsnjewels:emerald_set_diamond_axe":
+	{
+		"woodcutting": 40
+	},
+	"gemsnjewels:ruby_set_diamond_axe":
+	{
+		"woodcutting": 40
+	},
+	"gemsnjewels:sapphire_set_diamond_axe":
+	{
+		"woodcutting": 40
+	},
+	"gemsnjewels:amethyst_set_diamond_axe":
+	{
+		"woodcutting": 40
+	},
+	"gemsnjewels:opal_set_diamond_axe":
+	{
+		"woodcutting": 40
+	},
+	"gemsnjewels:garnet_set_diamond_axe":
+	{
+		"woodcutting": 40
+	},
+	"gemsnjewels:topaz_set_diamond_axe":
+	{
+		"woodcutting": 40
+	},
+	"gemsnjewels:peridot_set_diamond_axe":
+	{
+		"woodcutting": 40
+	},
+	"gemsnjewels:aquamarine_set_diamond_axe":
+	{
+		"woodcutting": 40
+	},
+	"gemsnjewels:zircon_set_diamond_axe":
+	{
+		"woodcutting": 40
+	},
+	"gemsnjewels:alexandrite_set_diamond_axe":
+	{
+		"woodcutting": 40
+	},
+	"gemsnjewels:tanzanite_set_diamond_axe":
+	{
+		"woodcutting": 40
+	},
+	"gemsnjewels:tourmaline_set_diamond_axe":
+	{
+		"woodcutting": 40
+	},
+	"gemsnjewels:spinel_set_diamond_axe":
+	{
+		"woodcutting": 40
+	},
+	"gemsnjewels:black_opal_set_diamond_axe":
+	{
+		"woodcutting": 40
+	},
+	"gemsnjewels:citrine_set_diamond_axe":
+	{
+		"woodcutting": 40
+	},
+	"gemsnjewels:morganite_set_diamond_axe":
+	{
+		"woodcutting": 40
+	},
+	"gemsnjewels:ametrine_set_diamond_axe":
+	{
+		"woodcutting": 40
+	},
+	"gemsnjewels:iolite_set_diamond_axe":
+	{
+		"woodcutting": 40
+	},
+	"gemsnjewels:kunzite_set_diamond_axe":
+	{
+		"woodcutting": 40
+	},
+	"gemsnjewels:diamond_set_diamond_shovel":
+	{
+		"excavation": 40
+	},
+	"gemsnjewels:emerald_set_diamond_shovel":
+	{
+		"excavation": 40
+	},
+	"gemsnjewels:ruby_set_diamond_shovel":
+	{
+		"excavation": 40
+	},
+	"gemsnjewels:sapphire_set_diamond_shovel":
+	{
+		"excavation": 40
+	},
+	"gemsnjewels:amethyst_set_diamond_shovel":
+	{
+		"excavation": 40
+	},
+	"gemsnjewels:opal_set_diamond_shovel":
+	{
+		"excavation": 40
+	},
+	"gemsnjewels:garnet_set_diamond_shovel":
+	{
+		"excavation": 40
+	},
+	"gemsnjewels:topaz_set_diamond_shovel":
+	{
+		"excavation": 40
+	},
+	"gemsnjewels:peridot_set_diamond_shovel":
+	{
+		"excavation": 40
+	},
+	"gemsnjewels:aquamarine_set_diamond_shovel":
+	{
+		"excavation": 40
+	},
+	"gemsnjewels:zircon_set_diamond_shovel":
+	{
+		"excavation": 40
+	},
+	"gemsnjewels:alexandrite_set_diamond_shovel":
+	{
+		"excavation": 40
+	},
+	"gemsnjewels:tanzanite_set_diamond_shovel":
+	{
+		"excavation": 40
+	},
+	"gemsnjewels:tourmaline_set_diamond_shovel":
+	{
+		"excavation": 40
+	},
+	"gemsnjewels:spinel_set_diamond_shovel":
+	{
+		"excavation": 40
+	},
+	"gemsnjewels:black_opal_set_diamond_shovel":
+	{
+		"excavation": 40
+	},
+	"gemsnjewels:citrine_set_diamond_shovel":
+	{
+		"excavation": 40
+	},
+	"gemsnjewels:morganite_set_diamond_shovel":
+	{
+		"excavation": 40
+	},
+	"gemsnjewels:ametrine_set_diamond_shovel":
+	{
+		"excavation": 40
+	},
+	"gemsnjewels:iolite_set_diamond_shovel":
+	{
+		"excavation": 40
+	},
+	"gemsnjewels:kunzite_set_diamond_shovel":
+	{
+		"excavation": 40
+	},
+	"gemsnjewels:diamond_set_diamond_hoe":
+	{
+		"farming": 40
+	},
+	"gemsnjewels:emerald_set_diamond_hoe":
+	{
+		"farming": 40
+	},
+	"gemsnjewels:ruby_set_diamond_hoe":
+	{
+		"farming": 40
+	},
+	"gemsnjewels:sapphire_set_diamond_hoe":
+	{
+		"farming": 40
+	},
+	"gemsnjewels:amethyst_set_diamond_hoe":
+	{
+		"farming": 40
+	},
+	"gemsnjewels:opal_set_diamond_hoe":
+	{
+		"farming": 40
+	},
+	"gemsnjewels:garnet_set_diamond_hoe":
+	{
+		"farming": 40
+	},
+	"gemsnjewels:topaz_set_diamond_hoe":
+	{
+		"farming": 40
+	},
+	"gemsnjewels:peridot_set_diamond_hoe":
+	{
+		"farming": 40
+	},
+	"gemsnjewels:aquamarine_set_diamond_hoe":
+	{
+		"farming": 40
+	},
+	"gemsnjewels:zircon_set_diamond_hoe":
+	{
+		"farming": 40
+	},
+	"gemsnjewels:alexandrite_set_diamond_hoe":
+	{
+		"farming": 40
+	},
+	"gemsnjewels:tanzanite_set_diamond_hoe":
+	{
+		"farming": 40
+	},
+	"gemsnjewels:tourmaline_set_diamond_hoe":
+	{
+		"farming": 40
+	},
+	"gemsnjewels:spinel_set_diamond_hoe":
+	{
+		"farming": 40
+	},
+	"gemsnjewels:black_opal_set_diamond_hoe":
+	{
+		"farming": 40
+	},
+	"gemsnjewels:citrine_set_diamond_hoe":
+	{
+		"farming": 40
+	},
+	"gemsnjewels:morganite_set_diamond_hoe":
+	{
+		"farming": 40
+	},
+	"gemsnjewels:ametrine_set_diamond_hoe":
+	{
+		"farming": 40
+	},
+	"gemsnjewels:iolite_set_diamond_hoe":
+	{
+		"farming": 40
+	},
+	"gemsnjewels:kunzite_set_diamond_hoe":
+	{
+		"farming": 40
+	},
+	"gemsnjewels:diamond_set_netherite_sword":
+	{
+		"combat": 60
+	},
+	"gemsnjewels:emerald_set_netherite_sword":
+	{
+		"combat": 60
+	},
+	"gemsnjewels:ruby_set_netherite_sword":
+	{
+		"combat": 60
+	},
+	"gemsnjewels:sapphire_set_netherite_sword":
+	{
+		"combat": 60
+	},
+	"gemsnjewels:amethyst_set_netherite_sword":
+	{
+		"combat": 60
+	},
+	"gemsnjewels:opal_set_netherite_sword":
+	{
+		"combat": 60
+	},
+	"gemsnjewels:garnet_set_netherite_sword":
+	{
+		"combat": 60
+	},
+	"gemsnjewels:topaz_set_netherite_sword":
+	{
+		"combat": 60
+	},
+	"gemsnjewels:peridot_set_netherite_sword":
+	{
+		"combat": 60
+	},
+	"gemsnjewels:aquamarine_set_netherite_sword":
+	{
+		"combat": 60
+	},
+	"gemsnjewels:zircon_set_netherite_sword":
+	{
+		"combat": 60
+	},
+	"gemsnjewels:alexandrite_set_netherite_sword":
+	{
+		"combat": 60
+	},
+	"gemsnjewels:tanzanite_set_netherite_sword":
+	{
+		"combat": 60
+	},
+	"gemsnjewels:tourmaline_set_netherite_sword":
+	{
+		"combat": 60
+	},
+	"gemsnjewels:spinel_set_netherite_sword":
+	{
+		"combat": 60
+	},
+	"gemsnjewels:black_opal_set_netherite_sword":
+	{
+		"combat": 60
+	},
+	"gemsnjewels:citrine_set_netherite_sword":
+	{
+		"combat": 60
+	},
+	"gemsnjewels:morganite_set_netherite_sword":
+	{
+		"combat": 60
+	},
+	"gemsnjewels:ametrine_set_netherite_sword":
+	{
+		"combat": 60
+	},
+	"gemsnjewels:iolite_set_netherite_sword":
+	{
+		"combat": 60
+	},
+	"gemsnjewels:kunzite_set_netherite_sword":
+	{
+		"combat": 60
+	},
+	"gemsnjewels:diamond_set_netherite_pickaxe":
+	{
+		"mining": 60
+	},
+	"gemsnjewels:emerald_set_netherite_pickaxe":
+	{
+		"mining": 60
+	},
+	"gemsnjewels:ruby_set_netherite_pickaxe":
+	{
+		"mining": 60
+	},
+	"gemsnjewels:sapphire_set_netherite_pickaxe":
+	{
+		"mining": 60
+	},
+	"gemsnjewels:amethyst_set_netherite_pickaxe":
+	{
+		"mining": 60
+	},
+	"gemsnjewels:opal_set_netherite_pickaxe":
+	{
+		"mining": 60
+	},
+	"gemsnjewels:garnet_set_netherite_pickaxe":
+	{
+		"mining": 60
+	},
+	"gemsnjewels:topaz_set_netherite_pickaxe":
+	{
+		"mining": 60
+	},
+	"gemsnjewels:peridot_set_netherite_pickaxe":
+	{
+		"mining": 60
+	},
+	"gemsnjewels:aquamarine_set_netherite_pickaxe":
+	{
+		"mining": 60
+	},
+	"gemsnjewels:zircon_set_netherite_pickaxe":
+	{
+		"mining": 60
+	},
+	"gemsnjewels:alexandrite_set_netherite_pickaxe":
+	{
+		"mining": 60
+	},
+	"gemsnjewels:tanzanite_set_netherite_pickaxe":
+	{
+		"mining": 60
+	},
+	"gemsnjewels:tourmaline_set_netherite_pickaxe":
+	{
+		"mining": 60
+	},
+	"gemsnjewels:spinel_set_netherite_pickaxe":
+	{
+		"mining": 60
+	},
+	"gemsnjewels:black_opal_set_netherite_pickaxe":
+	{
+		"mining": 60
+	},
+	"gemsnjewels:citrine_set_netherite_pickaxe":
+	{
+		"mining": 60
+	},
+	"gemsnjewels:morganite_set_netherite_pickaxe":
+	{
+		"mining": 60
+	},
+	"gemsnjewels:ametrine_set_netherite_pickaxe":
+	{
+		"mining": 60
+	},
+	"gemsnjewels:iolite_set_netherite_pickaxe":
+	{
+		"mining": 60
+	},
+	"gemsnjewels:kunzite_set_netherite_pickaxe":
+	{
+		"mining": 60
+	},
+	"gemsnjewels:diamond_set_netherite_axe":
+	{
+		"woodcutting": 60
+	},
+	"gemsnjewels:emerald_set_netherite_axe":
+	{
+		"woodcutting": 60
+	},
+	"gemsnjewels:ruby_set_netherite_axe":
+	{
+		"woodcutting": 60
+	},
+	"gemsnjewels:sapphire_set_netherite_axe":
+	{
+		"woodcutting": 60
+	},
+	"gemsnjewels:amethyst_set_netherite_axe":
+	{
+		"woodcutting": 60
+	},
+	"gemsnjewels:opal_set_netherite_axe":
+	{
+		"woodcutting": 60
+	},
+	"gemsnjewels:garnet_set_netherite_axe":
+	{
+		"woodcutting": 60
+	},
+	"gemsnjewels:topaz_set_netherite_axe":
+	{
+		"woodcutting": 60
+	},
+	"gemsnjewels:peridot_set_netherite_axe":
+	{
+		"woodcutting": 60
+	},
+	"gemsnjewels:aquamarine_set_netherite_axe":
+	{
+		"woodcutting": 60
+	},
+	"gemsnjewels:zircon_set_netherite_axe":
+	{
+		"woodcutting": 60
+	},
+	"gemsnjewels:alexandrite_set_netherite_axe":
+	{
+		"woodcutting": 60
+	},
+	"gemsnjewels:tanzanite_set_netherite_axe":
+	{
+		"woodcutting": 60
+	},
+	"gemsnjewels:tourmaline_set_netherite_axe":
+	{
+		"woodcutting": 60
+	},
+	"gemsnjewels:spinel_set_netherite_axe":
+	{
+		"woodcutting": 60
+	},
+	"gemsnjewels:black_opal_set_netherite_axe":
+	{
+		"woodcutting": 60
+	},
+	"gemsnjewels:citrine_set_netherite_axe":
+	{
+		"woodcutting": 60
+	},
+	"gemsnjewels:morganite_set_netherite_axe":
+	{
+		"woodcutting": 60
+	},
+	"gemsnjewels:ametrine_set_netherite_axe":
+	{
+		"woodcutting": 60
+	},
+	"gemsnjewels:iolite_set_netherite_axe":
+	{
+		"woodcutting": 60
+	},
+	"gemsnjewels:kunzite_set_netherite_axe":
+	{
+		"woodcutting": 60
+	},
+	"gemsnjewels:diamond_set_netherite_shovel":
+	{
+		"excavation": 60
+	},
+	"gemsnjewels:emerald_set_netherite_shovel":
+	{
+		"excavation": 60
+	},
+	"gemsnjewels:ruby_set_netherite_shovel":
+	{
+		"excavation": 60
+	},
+	"gemsnjewels:sapphire_set_netherite_shovel":
+	{
+		"excavation": 60
+	},
+	"gemsnjewels:amethyst_set_netherite_shovel":
+	{
+		"excavation": 60
+	},
+	"gemsnjewels:opal_set_netherite_shovel":
+	{
+		"excavation": 60
+	},
+	"gemsnjewels:garnet_set_netherite_shovel":
+	{
+		"excavation": 60
+	},
+	"gemsnjewels:topaz_set_netherite_shovel":
+	{
+		"excavation": 60
+	},
+	"gemsnjewels:peridot_set_netherite_shovel":
+	{
+		"excavation": 60
+	},
+	"gemsnjewels:aquamarine_set_netherite_shovel":
+	{
+		"excavation": 60
+	},
+	"gemsnjewels:zircon_set_netherite_shovel":
+	{
+		"excavation": 60
+	},
+	"gemsnjewels:alexandrite_set_netherite_shovel":
+	{
+		"excavation": 60
+	},
+	"gemsnjewels:tanzanite_set_netherite_shovel":
+	{
+		"excavation": 60
+	},
+	"gemsnjewels:tourmaline_set_netherite_shovel":
+	{
+		"excavation": 60
+	},
+	"gemsnjewels:spinel_set_netherite_shovel":
+	{
+		"excavation": 60
+	},
+	"gemsnjewels:black_opal_set_netherite_shovel":
+	{
+		"excavation": 60
+	},
+	"gemsnjewels:citrine_set_netherite_shovel":
+	{
+		"excavation": 60
+	},
+	"gemsnjewels:morganite_set_netherite_shovel":
+	{
+		"excavation": 60
+	},
+	"gemsnjewels:ametrine_set_netherite_shovel":
+	{
+		"excavation": 60
+	},
+	"gemsnjewels:iolite_set_netherite_shovel":
+	{
+		"excavation": 60
+	},
+	"gemsnjewels:kunzite_set_netherite_shovel":
+	{
+		"excavation": 60
+	},
+	"gemsnjewels:diamond_set_netherite_hoe":
+	{
+		"farming": 60
+	},
+	"gemsnjewels:emerald_set_netherite_hoe":
+	{
+		"farming": 60
+	},
+	"gemsnjewels:ruby_set_netherite_hoe":
+	{
+		"farming": 60
+	},
+	"gemsnjewels:sapphire_set_netherite_hoe":
+	{
+		"farming": 60
+	},
+	"gemsnjewels:amethyst_set_netherite_hoe":
+	{
+		"farming": 60
+	},
+	"gemsnjewels:opal_set_netherite_hoe":
+	{
+		"farming": 60
+	},
+	"gemsnjewels:garnet_set_netherite_hoe":
+	{
+		"farming": 60
+	},
+	"gemsnjewels:topaz_set_netherite_hoe":
+	{
+		"farming": 60
+	},
+	"gemsnjewels:peridot_set_netherite_hoe":
+	{
+		"farming": 60
+	},
+	"gemsnjewels:aquamarine_set_netherite_hoe":
+	{
+		"farming": 60
+	},
+	"gemsnjewels:zircon_set_netherite_hoe":
+	{
+		"farming": 60
+	},
+	"gemsnjewels:alexandrite_set_netherite_hoe":
+	{
+		"farming": 60
+	},
+	"gemsnjewels:tanzanite_set_netherite_hoe":
+	{
+		"farming": 60
+	},
+	"gemsnjewels:tourmaline_set_netherite_hoe":
+	{
+		"farming": 60
+	},
+	"gemsnjewels:spinel_set_netherite_hoe":
+	{
+		"farming": 60
+	},
+	"gemsnjewels:black_opal_set_netherite_hoe":
+	{
+		"farming": 60
+	},
+	"gemsnjewels:citrine_set_netherite_hoe":
+	{
+		"farming": 60
+	},
+	"gemsnjewels:morganite_set_netherite_hoe":
+	{
+		"farming": 60
+	},
+	"gemsnjewels:ametrine_set_netherite_hoe":
+	{
+		"farming": 60
+	},
+	"gemsnjewels:iolite_set_netherite_hoe":
+	{
+		"farming": 60
+	},
+	"gemsnjewels:kunzite_set_netherite_hoe":
+	{
+		"farming": 60
 	}
 }
