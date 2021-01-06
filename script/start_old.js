@@ -3765,7 +3765,7 @@ addData( "req_weapon", "spartanweaponry:greatsword_stone", {"combat": 3, "endura
 addData( "req_weapon", "spartanshields:shield_tower_stone", {"combat": 3, "endurance": 3});
 addData( "req_weapon", "spartanweaponry:saber_stone", {"combat": 3, "swimming": 3});
 addData( "req_weapon", "spartanweaponry:heavy_crossbow_leather", {"combat": 3, "archery": 3, "endurance": 3});
-addData( "req_weapon", "spartanweaponry:longbow_leather", {"combat": 3, "archery": 3, "endurance": 3});
+addData( "req_weapon", "spartanweaponry:longbow_leather", {"combat": 3, "archery": 3 });
 //iron
 addData( "req_weapon", "spartanweaponry:glaive_iron",  {"combat": 15, "agility": 15, "endurance": 15});
 addData( "req_weapon", "spartanweaponry:quarterstaff_iron",  {"combat": 15, "agility": 15, "endurance": 15});
