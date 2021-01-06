@@ -391,8 +391,7 @@
 	"spartanweaponry:longbow_leather":
 	{
 		"combat": 3,
-		"archery": 3,
-		"endurance": 3
+		"archery": 3
 	},
 	"spartanweaponry:glaive_iron":
 	{
