@@ -3894,6 +3894,7 @@ addData( "req_weapon", "spartanweaponry:spear_copper",  {"combat": 10, "agility"
 addData( "req_weapon", "spartanweaponry:javelin_copper",  {"combat": 10, "agility": 10, "endurance": 10});
 addData( "req_weapon", "spartanweaponry:warhammer_copper",  {"combat": 10, "agility": 10, "endurance": 10});
 addData( "item_specific", "minecraft:bow", { "archery": 1.5 });
+addData( "xp_value_kill", "minecraft:bow", { "archery": 1.5 });
 }
 //Farmers Delight Addon
 {
