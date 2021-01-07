@@ -26,7 +26,7 @@
 	"minecolonies:blockhutbaker":
 	{
 		"crafting": 15,
-		"cooking": 15
+		"cooking": 20
 	},
 	"minecolonies:blockhutblacksmith":
 	{
@@ -66,7 +66,7 @@
 	"minecolonies:blockhutbarracks":
 	{
 		"crafting": 15,
-		"combat": 15
+		"combat": 20
 	},
 	"minecolonies:blockhutsmeltery":
 	{
