@@ -25,13 +25,13 @@
 	},
 	"minecolonies:blockhutbaker":
 	{
-		"crafting": 15,
+		"crafting": 20,
 		"cooking": 20
 	},
 	"minecolonies:blockhutblacksmith":
 	{
-		"crafting": 15,
-		"smithing": 15
+		"crafting": 30,
+		"smithing": 30
 	},
 	"minecolonies:blockhutbuilder":
 	{
@@ -65,18 +65,18 @@
 	},
 	"minecolonies:blockhutbarracks":
 	{
-		"crafting": 15,
+		"crafting": 20,
 		"combat": 20
 	},
 	"minecolonies:blockhutsmeltery":
 	{
-		"crafting": 15,
-		"smithing": 15
+		"crafting": 30,
+		"smithing": 30
 	},
 	"minecolonies:blockhutcombatacademy":
 	{
-		"crafting": 15,
-		"combat": 15
+		"crafting": 30,
+		"combat": 30
 	},
 	"minecolonies:blockhutcook":
 	{
@@ -85,13 +85,92 @@
 	},
 	"minecolonies:blockhutarchery":
 	{
-		"crafting": 15,
-		"archery": 15
+		"crafting": 20,
+		"archery": 20
 	},
 	"minecolonies:blockhutguardtower":
 	{
 		"crafting": 15,
 		"combat": 15
+	},
+	"minecolonies:blockhutdeliveryman":
+	{
+		"crafting": 15,
+		"agility": 15
+	},
+	"minecolonies:blockhutcowboy":
+	{
+		"farming": 30
+	},
+	"minecolonies:blockhutswineherder":
+	{
+		"farming": 30
+	},
+	"minecolonies:blockhutchickenherder":
+	{
+		"farming": 30
+	},
+	"minecolonies:blockhutcomposter":
+	{
+		"farming": 40
+	},
+	"minecolonies:blockhutlibrary":
+	{
+		"building": 40
+	},
+	"minecolonies:blockhutsawmill":
+	{
+		"woodcutting": 40
+	},
+	"minecolonies:blockhutcrusher":
+	{
+		"mining": 40
+	},
+	"minecolonies:blockhutsifter":
+	{
+		"excavation": 40
+	},
+	"minecolonies:blockhuthospital":
+	{
+		"endurance": 40
+	},
+	"minecolonies:blockhutschool":
+	{
+		"building": 40
+	},
+	"minecolonies:blockhutglassblower":
+	{
+		"excavation": 40,
+		"smithing": 40
+	},
+	"minecolonies:blockhutdyer":
+	{
+		"cooking": 40
+	},
+	"minecolonies:blockhutfletcher":
+	{
+		"archery": 40
+	},
+	"minecolonies:blockhutmechanic":
+	{
+		"smithing": 40
+	},
+	"minecolonies:blockhutplantation":
+	{
+		"farming": 15
+	},
+	"minecolonies:blockhutshepherd":
+	{
+		"farming": 30
+	},
+	"minecolonies:blockhutstonemason":
+	{
+		"mining": 40
+	},
+	"minecolonies:blockhutconcretemixer":
+	{
+		"building": 40,
+		"mining": 40
 	},
 	"create:sand_paper":
 	{
