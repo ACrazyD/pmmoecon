@@ -2925,8 +2925,6 @@ addData( "req_use", "minecolonies:blockhutplantation", { "farming":15 } );
 addData( "req_use", "minecolonies:blockhutshepherd", { "farming":30 } );
 addData( "req_use", "minecolonies:blockhutstonemason", { "mining":40 } );
 addData( "req_use", "minecolonies:blockhutconcretemixer", { "building":40, "mining":40 } );
-
-
 }
 //Create Addon
 {
@@ -3362,6 +3360,8 @@ addData( "xp_value_break", "quark:orange_blossom_sapling",								{ "farming": 2
 addData( "xp_value_break", "quark:pink_blossom_sapling",								{ "farming": 2 } );
 addData( "xp_value_break", "quark:yellow_blossom_sapling",								{ "farming": 2 } );
 addData( "xp_value_break", "quark:red_blossom_sapling",									{ "farming": 2 } );
+addData( "req_tool", "quark:pickarang" { "mining":40 });
+addData( "req_tool", "quark:flamerang" { "mining":60 });
 }
 //Pams2 Addon (MultiPack)
 {
