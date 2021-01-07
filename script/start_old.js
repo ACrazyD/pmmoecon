@@ -2907,6 +2907,25 @@ addData( "req_use", "minecolonies:blockhutcook", { "crafting": 15, "cooking":15 
 addData( "req_use", "minecolonies:blockhutarchery", { "crafting": 20, "archery":20 } );
 addData( "req_use", "minecolonies:blockhutguardtower", { "crafting": 15, "combat":15 } );
 addData( "req_use", "minecolonies:blockhutdeliveryman", { "crafting": 15, "agility":15 } );
+addData( "req_use", "minecolonies:blockhutcowboy", { "farming":30 } );
+addData( "req_use", "minecolonies:blockhutswineherder", { "farming":30 } );
+addData( "req_use", "minecolonies:blockhutchickenherder", { "farming":30 } );
+addData( "req_use", "minecolonies:blockhutcomposter", { "farming":40 } );
+addData( "req_use", "minecolonies:blockhutlibrary", { "building":40 } );
+addData( "req_use", "minecolonies:blockhutsawmill", { "woodcutting":40 } );
+addData( "req_use", "minecolonies:blockhutcrusher", { "mining":40 } );
+addData( "req_use", "minecolonies:blockhutsifter", { "excavation":40 } );
+addData( "req_use", "minecolonies:blockhuthospital", { "endurance":40 } );
+addData( "req_use", "minecolonies:blockhutschool", { "building":40 } );
+addData( "req_use", "minecolonies:blockhutglassblower", { "excavation": 40, "smithing":40 } );
+addData( "req_use", "minecolonies:blockhutdyer", { "cooking":40 } );
+addData( "req_use", "minecolonies:blockhutfletcher", { "archery":40 } );
+addData( "req_use", "minecolonies:blockhutmechanic", { "smithing":40 } );
+addData( "req_use", "minecolonies:blockhutplantation", { "farming":15 } );
+addData( "req_use", "minecolonies:blockhutshepherd", { "farming":30 } );
+addData( "req_use", "minecolonies:blockhutstonemason", { "mining":40 } );
+
+
 }
 //Create Addon
 {
