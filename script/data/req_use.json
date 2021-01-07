@@ -91,7 +91,7 @@
 	"minecolonies:blockhutguardtower":
 	{
 		"crafting": 15,
-		"archery": 15
+		"combat": 15
 	},
 	"create:sand_paper":
 	{

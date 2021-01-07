@@ -2905,7 +2905,7 @@ addData( "req_use", "minecolonies:blockhutsmeltery", { "crafting": 15, "smithing
 addData( "req_use", "minecolonies:blockhutcombatacademy", { "crafting": 15, "combat":15 } );
 addData( "req_use", "minecolonies:blockhutcook", { "crafting": 15, "cooking":15 } );
 addData( "req_use", "minecolonies:blockhutarchery", { "crafting": 15, "archery":15 } );
-addData( "req_use", "minecolonies:blockhutguardtower", { "crafting": 15, "archery":15 } );
+addData( "req_use", "minecolonies:blockhutguardtower", { "crafting": 15, "combat":15 } );
 }
 //Create Addon
 {
