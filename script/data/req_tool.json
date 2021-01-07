@@ -99,6 +99,14 @@
 	{
 		"woodcutting": 92
 	},
+	"quark:pickarang":
+	{
+		"mining": 40
+	},
+	"quark:flamerang":
+	{
+		"mining": 60
+	},
 	"byg:pendorite_pickaxe":
 	{
 		"mining": 80
