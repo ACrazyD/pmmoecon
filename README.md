@@ -14,7 +14,7 @@ All the addons are located in the start_old.js script located in the Scripts fol
  - Mining Gadgets (VERY LIMITED ATM) (Also based on a custom recipe found in my datapack)
  - StorageNetworks (Also based on my Datapack)
  - Spartan Weapons/Shields
- - GemsNJewels (Partial)
+ - GemsNJewels (Mostly Complete)
  - Farmers Delight (Still being worked out)
 
 
