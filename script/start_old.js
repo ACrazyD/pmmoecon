@@ -2924,6 +2924,7 @@ addData( "req_use", "minecolonies:blockhutmechanic", { "smithing":40 } );
 addData( "req_use", "minecolonies:blockhutplantation", { "farming":15 } );
 addData( "req_use", "minecolonies:blockhutshepherd", { "farming":30 } );
 addData( "req_use", "minecolonies:blockhutstonemason", { "mining":40 } );
+addData( "req_use", "minecolonies:blockhutconcretemixer", { "building":40, "mining":40 } );
 
 
 }
