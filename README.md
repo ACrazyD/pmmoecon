@@ -10,7 +10,7 @@ All the addons are located in the start_old.js script located in the Scripts fol
  - Pams/Pams Addons (Crops, Trees, FoodItems)
  - BYG (Biomes You Will Go!)
  - Extended Storage
- - Mining Dimension
+ - Mining World
  - Mining Gadgets (VERY LIMITED ATM) (Also based on a custom recipe found in my datapack)
  - StorageNetworks (Also based on my Datapack)
  - Spartan Weapons/Shields
