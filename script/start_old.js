@@ -4536,7 +4536,7 @@ addData( "req_tool", "gemsnjewels:solid_alexandrite_shovel", {"excavation": 40})
 addData( "req_tool", "gemsnjewels:solid_sapphire_pickaxe", {"mining": 40});
 addData( "req_tool", "gemsnjewels:solid_topaz_pickaxe", {"mining": 40});
 addData( "req_tool", "gemsnjewels:solid_spinel_pickaxe", {"mining": 40});
-addData( "req_tool", "gemsnjewels:solid_ruby_pickaxe", {"mining": 40})
+addData( "req_tool", "gemsnjewels:solid_ruby_pickaxe", {"mining": 40});
 addData( "req_tool", "gemsnjewels:solid_alexandrite_pickaxe", {"mining": 40});
 }
 //Test Name
