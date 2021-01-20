@@ -4539,6 +4539,9 @@ addData( "req_tool", "gemsnjewels:solid_spinel_pickaxe", {"mining": 40});
 addData( "req_tool", "gemsnjewels:solid_ruby_pickaxe", {"mining": 40});
 addData( "req_tool", "gemsnjewels:solid_alexandrite_pickaxe", {"mining": 40});
 }
+//Test Name
+{/pmmo debug searchregistry [type] [search query]
+}
 function addData2( dataKey, regKey, entryKey, entryObject, probe )
 {
 	if( probe != null )
